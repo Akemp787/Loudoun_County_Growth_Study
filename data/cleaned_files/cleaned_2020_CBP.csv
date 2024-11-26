@@ -1,0 +1,1187 @@
+geographic_area_name_name,2017_naics_code_naics2017,meaning_of_naics_code_naics2017_label,meaning_of_legal_form_of_organization_code_lfo_label,meaning_of_employment_size_of_establishments_code_empszes_label,year_year,number_of_establishments_estab,annual_payroll_1000_payann,firstquarter_payroll_1000_payqtr1,number_of_employees_emp,data_type
+"Santa Clara County, California",00,Total for all sectors,All establishments,All establishments,2020,"49,013","165,113,675","40,496,644","1,129,499",CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"26,655",N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"8,518",N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"6,055",N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"4,526",N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"1,647",N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,997,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,350,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,157,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,108,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,43,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,38,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,18,N,N,N,CBP_2020
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 5,000 employees or more",2020,9,N,N,N,CBP_2020
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,24,"12,145","2,999",257,CBP_2020
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,14,N,N,N,CBP_2020
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 10 to 19 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,11,"14,384","3,911",140,CBP_2020
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2020,5,N,N,N,CBP_2020
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 5 to 9 employees,2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",22,Utilities,All establishments,All establishments,2020,27,"314,749","80,001","2,019",CBP_2020
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with less than 5 employees,2020,13,N,N,N,CBP_2020
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with 20 to 49 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,All establishments,2020,"3,724","4,515,338","1,153,510","52,288",CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with less than 5 employees,2020,"2,244",N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,659,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,385,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,244,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,114,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,51,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,15,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,9,N,N,N,CBP_2020
+"Santa Clara County, California",23,Construction,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,All establishments,2020,"2,069","10,771,607","3,008,903","86,632",CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,823,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,385,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,320,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,274,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,129,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,74,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,35,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2020,17,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 2,500 to 4,999 employees",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,All establishments,2020,"2,306","15,723,690","3,888,476","78,661",CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,"1,203",N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,387,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,284,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,214,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,95,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,57,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,33,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2020,20,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,CBP_2020
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,500 to 2,499 employees",2020,7,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,All establishments,2020,"4,358","3,536,751","899,679","81,366",CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,787",N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,958,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,693,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,547,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,235,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,110,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,23,N,N,N,CBP_2020
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,All establishments,2020,766,"787,804","210,444","14,741",CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,469,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,85,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,86,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,66,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,24,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,25,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,CBP_2020
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,All establishments,2020,"1,929","45,723,790","11,952,156","149,287",CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with less than 5 employees,2020,900,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 5 to 9 employees,2020,260,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 10 to 19 employees,2020,214,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 20 to 49 employees,2020,193,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 50 to 99 employees,2020,97,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 100 to 249 employees,2020,116,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 250 to 499 employees,2020,73,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,Establishments with 500 to 999 employees,2020,47,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,29,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,000 to 1,499 employees",2020,16,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,500 to 2,499 employees",2020,7,N,N,N,CBP_2020
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 2,500 to 4,999 employees",2020,5,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,All establishments,2020,"2,374","5,002,356","1,826,549","27,182",CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,"1,473",N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,445,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,254,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,119,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,46,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,All establishments,2020,"3,052","1,531,357","415,658","16,429",CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"2,333",N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,420,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,174,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,82,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,9,N,N,N,CBP_2020
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"8,977","26,353,025","6,439,204","154,546",CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"6,117",N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,"1,154",N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,722,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,523,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,190,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,173,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,58,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,27,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,CBP_2020
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,500 to 2,499 employees",2020,10,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,All establishments,2020,262,"28,123,341","4,645,433","86,091",CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,94,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,31,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,26,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,27,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,13,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 to 1,499 employees",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,272","3,705,481","891,154","59,564",CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,254",N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,339,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,235,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,212,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,105,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,84,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,29,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,CBP_2020
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,All establishments,2020,"1,170","4,404,836","1,092,829","57,339",CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with less than 5 employees,2020,536,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,192,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,172,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,156,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,78,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,All establishments,2020,"6,075","10,579,558","2,768,975","118,836",CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"3,278",N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,"1,359",N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,751,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,410,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,141,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,99,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,21,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,500 to 2,499 employees",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 2,500 to 4,999 employees",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,719,"717,504","185,313","19,953",CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,348,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,90,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,105,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,98,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,36,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,27,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,All establishments,2020,"5,008","1,987,268","662,823","92,647",CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,"1,293",N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,"1,000",N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,"1,237",N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,"1,144",N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,252,N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,68,N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,All establishments,2020,"3,805","1,305,694","368,098","31,436",CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"2,389",N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,742,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,389,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,211,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,47,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,20,N,N,N,CBP_2020
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Santa Clara County, California",99,Industries not classified,All establishments,All establishments,2020,85,"2,997",529,85,CBP_2020
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,82,N,N,N,CBP_2020
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with 5 to 9 employees,2020,3,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,All establishments,2020,"27,498","31,225,789","8,378,416","451,660",CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"15,734",N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"4,521",N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"3,188",N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"2,436",N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,871,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,532,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,141,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,47,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,28,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,10,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,11,N,N,N,CBP_2020
+"Montgomery County, Maryland",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,19,"2,370",636,52,CBP_2020
+"Montgomery County, Maryland",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,16,N,N,N,CBP_2020
+"Montgomery County, Maryland",22,Utilities,All establishments,All establishments,2020,21,"51,805","14,865",445,CBP_2020
+"Montgomery County, Maryland",22,Utilities,All establishments,Establishments with less than 5 employees,2020,11,N,N,N,CBP_2020
+"Montgomery County, Maryland",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,4,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,All establishments,2020,"2,293","1,901,101","461,681","27,058",CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with less than 5 employees,2020,"1,514",N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,326,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,210,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,146,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,46,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,38,N,N,N,CBP_2020
+"Montgomery County, Maryland",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,All establishments,2020,348,"534,413","139,936","5,950",CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,172,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,69,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,56,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,31,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,10,N,N,N,CBP_2020
+"Montgomery County, Maryland",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,All establishments,2020,715,"1,159,299","315,866","10,525",CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,439,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,112,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,81,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,46,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,22,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,9,N,N,N,CBP_2020
+"Montgomery County, Maryland",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,All establishments,2020,"2,462","1,539,083","388,500","46,937",CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,000",N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,541,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,413,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,288,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,110,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,90,N,N,N,CBP_2020
+"Montgomery County, Maryland",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,All establishments,2020,332,"159,082","36,432","4,261",CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,228,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,35,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,37,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,13,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,7,N,N,N,CBP_2020
+"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,10,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,All establishments,2020,619,"1,798,241","502,800","15,834",CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with less than 5 employees,2020,351,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 5 to 9 employees,2020,80,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 10 to 19 employees,2020,72,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 20 to 49 employees,2020,45,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 50 to 99 employees,2020,32,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",51,Information,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,All establishments,2020,"1,537","2,945,333","972,258","21,425",CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,864,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,364,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,150,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,84,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,49,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Montgomery County, Maryland",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,591","1,175,472","360,809","12,472",CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"1,116",N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,245,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,119,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,82,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,17,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,CBP_2020
+"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"5,878","8,332,145","2,045,552","81,147",CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"4,143",N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,648,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,433,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,358,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,151,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,96,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,33,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 to 1,499 employees",2020,3,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,All establishments,2020,536,"1,928,912","620,208","15,461",CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,357,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,57,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,40,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,37,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,19,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,14,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,825","2,068,136","526,670","47,524",CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,037",N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,257,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,199,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,186,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,74,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,45,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,19,N,N,N,CBP_2020
+"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,All establishments,2020,617,"606,517","156,798","12,640",CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with less than 5 employees,2020,301,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,95,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,81,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,83,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,30,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,20,N,N,N,CBP_2020
+"Montgomery County, Maryland",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,All establishments,2020,"3,844","4,508,191","1,124,658","78,450",CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"1,922",N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,821,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,528,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,353,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,100,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,85,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,14,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,11,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,3,N,N,N,CBP_2020
+"Montgomery County, Maryland",62,Health care and social assistance,All establishments,"Establishments with 1,500 to 2,499 employees",2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,396,"193,011","56,306","9,505",CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,194,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,52,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,42,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,52,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,31,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,All establishments,2020,"1,905","658,597","205,834","35,037",CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,557,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,354,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,400,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,446,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,121,N,N,N,CBP_2020
+"Montgomery County, Maryland",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,26,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,All establishments,2020,"2,500","1,662,218","448,312","26,895",CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"1,452",N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,461,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,322,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,185,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,50,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,18,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Montgomery County, Maryland",81,Other services (except public administration),All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Montgomery County, Maryland",99,Industries not classified,All establishments,All establishments,2020,60,"1,863",295,42,CBP_2020
+"Montgomery County, Maryland",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,60,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,All establishments,2020,"30,855","30,084,000","7,892,464","507,958",CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"16,922",N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"5,023",N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"3,783",N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"3,173",N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"1,148",N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,584,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,150,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,50,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,22,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,8,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,10,N,N,N,CBP_2020
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,CBP_2020
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,26,"8,404","1,736",192,CBP_2020
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,17,N,N,N,CBP_2020
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,12,"21,375","6,011",222,CBP_2020
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,6,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,All establishments,2020,80,"343,487","125,935","3,146",CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with less than 5 employees,2020,47,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 5 to 9 employees,2020,8,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,6,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 20 to 49 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 50 to 99 employees,2020,6,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 100 to 249 employees,2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,All establishments,2020,"3,006","1,971,714","489,966","32,586",CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with less than 5 employees,2020,"1,917",N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,433,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,282,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,234,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,88,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,43,N,N,N,CBP_2020
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,All establishments,2020,591,"1,010,762","253,647","15,348",CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,270,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,107,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,91,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,69,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,18,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,24,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,CBP_2020
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,All establishments,2020,"1,398","2,478,868","622,227","26,916",CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,659,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,242,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,221,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,172,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,60,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,32,N,N,N,CBP_2020
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,All establishments,2020,"3,447","1,848,153","450,340","61,113",CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,395",N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,725,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,620,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,403,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,185,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,101,N,N,N,CBP_2020
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,All establishments,2020,581,"492,429","127,398","11,799",CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,366,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,60,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,45,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,54,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,32,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,All establishments,2020,728,"3,437,294","931,870","29,958",CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with less than 5 employees,2020,397,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 5 to 9 employees,2020,100,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 10 to 19 employees,2020,71,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 20 to 49 employees,2020,75,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 50 to 99 employees,2020,38,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 100 to 249 employees,2020,24,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 500 to 999 employees,2020,12,N,N,N,CBP_2020
+"Wake County, North Carolina",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,All establishments,2020,"1,823","3,003,027","943,327","29,147",CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,"1,126",N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,364,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,161,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,99,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,23,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,13,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",52,Finance and insurance,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,All establishments,2020,"2,040","605,574","151,943","10,104",CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"1,545",N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,305,N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,100,N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,66,N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,15,N,N,N,CBP_2020
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,7,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"5,132","6,094,306","1,546,734","63,404",CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"3,641",N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,564,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,407,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,289,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,121,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,76,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,20,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,CBP_2020
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,All establishments,2020,284,"983,811","299,858","10,507",CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,117,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,43,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,31,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,52,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,18,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,18,N,N,N,CBP_2020
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,016","1,842,838","430,766","40,046",CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,158",N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,301,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,210,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,194,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,76,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,50,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,20,N,N,N,CBP_2020
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,All establishments,2020,556,"437,921","106,924","11,852",CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with less than 5 employees,2020,281,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,83,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,76,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,65,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,30,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,13,N,N,N,CBP_2020
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,All establishments,2020,"3,245","3,608,072","851,363","67,477",CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"1,425",N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,662,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,563,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,393,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,115,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,65,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,14,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,510,"232,581","92,595","13,367",CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,263,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,75,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,55,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,55,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,30,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,23,N,N,N,CBP_2020
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,All establishments,2020,"2,554","886,735","262,625","57,348",CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,616,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,382,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,518,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,739,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,253,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,41,N,N,N,CBP_2020
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,All establishments,2020,"2,796","775,287","196,951","23,397",CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"1,650",N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,562,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,323,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,201,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,39,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,CBP_2020
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,CBP_2020
+"Wake County, North Carolina",99,Industries not classified,All establishments,All establishments,2020,30,"1,362",248,29,CBP_2020
+"Wake County, North Carolina",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,28,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,All establishments,2020,"20,512","26,899,504","7,042,439","470,435",CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"9,665",N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"3,737",N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"2,958",N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"2,493",N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,884,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,538,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,155,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,52,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,30,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,12,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,11,N,N,N,CBP_2020
+"Davidson County, Tennessee",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,5,N,N,N,CBP_2020
+"Davidson County, Tennessee",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,6,766,205,19,CBP_2020
+"Davidson County, Tennessee",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,5,N,N,N,CBP_2020
+"Davidson County, Tennessee",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,9,"11,971","2,865",163,CBP_2020
+"Davidson County, Tennessee",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,6,N,N,N,CBP_2020
+"Davidson County, Tennessee",22,Utilities,All establishments,All establishments,2020,11,"21,576","6,738",251,CBP_2020
+"Davidson County, Tennessee",22,Utilities,All establishments,Establishments with less than 5 employees,2020,5,N,N,N,CBP_2020
+"Davidson County, Tennessee",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,3,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,All establishments,2020,"1,303","1,549,610","351,081","24,366",CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with less than 5 employees,2020,661,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,214,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,171,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,150,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,61,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,35,N,N,N,CBP_2020
+"Davidson County, Tennessee",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,All establishments,2020,559,"1,080,540","268,838","20,296",CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,202,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,96,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,86,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,89,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,45,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,27,N,N,N,CBP_2020
+"Davidson County, Tennessee",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,All establishments,2020,"1,061","1,628,830","421,341","22,583",CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,400,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,211,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,193,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,165,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,50,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,26,N,N,N,CBP_2020
+"Davidson County, Tennessee",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,14,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,All establishments,2020,"2,583","1,174,975","283,274","37,368",CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,082",N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,611,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,471,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,290,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,62,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,56,N,N,N,CBP_2020
+"Davidson County, Tennessee",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,All establishments,2020,555,"1,238,341","315,172","28,302",CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,249,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,69,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,73,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,76,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,42,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,25,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,8,N,N,N,CBP_2020
+"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,All establishments,2020,686,"1,179,785","327,221","14,175",CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with less than 5 employees,2020,374,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 5 to 9 employees,2020,129,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 10 to 19 employees,2020,66,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 20 to 49 employees,2020,61,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 50 to 99 employees,2020,26,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 100 to 249 employees,2020,22,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Davidson County, Tennessee",51,Information,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,All establishments,2020,"1,283","2,579,826","760,020","24,901",CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,700,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,273,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,159,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,63,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,44,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,25,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Davidson County, Tennessee",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2020,7,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,181","549,769","141,538","8,829",CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,756,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,215,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,127,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,56,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,15,N,N,N,CBP_2020
+"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,11,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"2,209","2,511,436","603,385","27,606",CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"1,405",N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,336,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,208,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,165,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,53,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,30,N,N,N,CBP_2020
+"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,All establishments,2020,241,"2,321,152","658,036","23,339",CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,71,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,30,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,21,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,46,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,24,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,21,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2020,6,N,N,N,CBP_2020
+"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,171","1,533,949","448,506","38,124",CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,529,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,184,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,145,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,136,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,84,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,66,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,6,N,N,N,CBP_2020
+"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,All establishments,2020,303,"1,197,282","301,391","24,976",CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with less than 5 employees,2020,135,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,38,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,41,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,43,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Davidson County, Tennessee",61,Educational services,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,All establishments,2020,"2,149","5,678,824","1,335,086","83,212",CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,913,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,421,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,341,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,260,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,115,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,66,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,17,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,8,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,8,N,N,N,CBP_2020
+"Davidson County, Tennessee",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,939,"843,901","282,381","12,305",CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,557,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,157,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,103,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,80,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,22,N,N,N,CBP_2020
+"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,All establishments,2020,"2,264","1,069,237","348,515","58,884",CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,548,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,322,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,467,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,661,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,184,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,70,N,N,N,CBP_2020
+"Davidson County, Tennessee",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,All establishments,2020,"1,966","722,859","185,799","20,656",CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"1,042",N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,428,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,280,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,144,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,51,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,CBP_2020
+"Davidson County, Tennessee",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Davidson County, Tennessee",99,Industries not classified,All establishments,All establishments,2020,33,"4,875","1,047",80,CBP_2020
+"Davidson County, Tennessee",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,29,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,All establishments,2020,"68,180","102,251,445","27,978,191","1,563,934",CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"35,295",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"11,202",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"8,758",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"7,336",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"2,904",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,"1,807",N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,558,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,205,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,115,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,55,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,30,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,21,N,N,N,CBP_2020
+"Dallas County, Texas",00,Total for all sectors,All establishments,"Establishments with 5,000 employees or more",2020,9,N,N,N,CBP_2020
+"Dallas County, Texas",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,19,"2,538",595,59,CBP_2020
+"Dallas County, Texas",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,15,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,322,"551,258","214,674","3,880",CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2020,201,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 5 to 9 employees,2020,47,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 10 to 19 employees,2020,32,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,24,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 50 to 99 employees,2020,9,N,N,N,CBP_2020
+"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,All establishments,2020,88,"753,684","246,993","5,085",CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with less than 5 employees,2020,34,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 5 to 9 employees,2020,10,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,7,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 20 to 49 employees,2020,10,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",22,Utilities,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,All establishments,2020,"4,449","5,967,128","1,591,184","89,581",CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with less than 5 employees,2020,"2,444",N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,707,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,486,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,435,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,204,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,121,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,35,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,12,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,"Establishments with 1,000 employees or more",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",23,Construction,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,All establishments,2020,"2,211","7,268,406","2,162,988","104,206",CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,734,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,355,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,336,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,380,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,201,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,136,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,43,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2020,17,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,"Establishments with 1,000 employees or more",2020,9,N,N,N,CBP_2020
+"Dallas County, Texas",31-33,Manufacturing,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,All establishments,2020,"4,315","6,335,522","1,639,704","87,919",CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,"2,034",N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,751,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,645,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,511,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,210,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,117,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,33,N,N,N,CBP_2020
+"Dallas County, Texas",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2020,12,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,All establishments,2020,"7,743","4,320,514","1,101,962","130,786",CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"3,526",N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,"1,597",N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,"1,252",N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,847,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,273,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,198,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,39,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,Establishments with 500 to 999 employees,2020,7,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",44-45,Retail trade,All establishments,"Establishments with 1,000 to 1,499 employees",2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,All establishments,2020,"2,089","8,564,688","2,378,241","135,039",CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,"1,017",N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,268,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,264,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,249,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,115,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,95,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,41,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,22,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,"Establishments with 1,000 employees or more",2020,18,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,"Establishments with 1,000 to 1,499 employees",2020,6,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,"Establishments with 1,500 to 2,499 employees",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,"Establishments with 2,500 to 4,999 employees",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,All establishments,2020,"1,604","7,040,173","2,173,854","63,955",CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with less than 5 employees,2020,749,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 5 to 9 employees,2020,263,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 10 to 19 employees,2020,204,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 20 to 49 employees,2020,171,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 50 to 99 employees,2020,94,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 100 to 249 employees,2020,70,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 250 to 499 employees,2020,32,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,Establishments with 500 to 999 employees,2020,13,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",51,Information,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,All establishments,2020,"5,159","11,760,789","3,466,840","105,568",CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,"2,999",N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,974,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,553,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,304,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,139,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,106,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,49,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2020,23,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",52,Finance and insurance,All establishments,"Establishments with 1,500 to 2,499 employees",2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,All establishments,2020,"4,236","3,086,286","868,639","43,368",CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"2,876",N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,687,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,341,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,180,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,73,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,52,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2020,19,N,N,N,CBP_2020
+"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,Establishments with 500 to 999 employees,2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"10,093","15,411,211","3,719,130","144,365",CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"6,741",N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,"1,315",N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,842,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,679,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,276,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,167,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,49,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,11,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,500 to 2,499 employees",2020,6,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,All establishments,2020,835,"8,203,732","2,430,799","71,792",CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,273,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,86,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,111,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,128,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,74,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,85,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,43,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2020,23,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 to 1,499 employees",2020,9,N,N,N,CBP_2020
+"Dallas County, Texas",55,Management of companies and enterprises,All establishments,"Establishments with 1,500 to 2,499 employees",2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"3,837","5,598,199","1,449,841","146,525",CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,827",N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,551,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,478,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,444,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,229,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,206,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,71,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,21,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,10,N,N,N,CBP_2020
+"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,All establishments,2020,844,"1,523,264","373,989","33,367",CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with less than 5 employees,2020,401,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,104,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,104,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,123,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,63,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,31,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",61,Educational services,All establishments,"Establishments with 1,000 employees or more",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,All establishments,2020,"7,861","10,404,454","2,572,406","184,652",CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"3,902",N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,"1,512",N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,"1,162",N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,721,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,298,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,187,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,46,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,17,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,16,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,"Establishments with 2,500 to 4,999 employees",2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",62,Health care and social assistance,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,837,"576,589","156,399","18,950",CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,436,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,97,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,122,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,98,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,42,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,CBP_2020
+"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,12,N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,All establishments,2020,"6,263","2,530,631","769,586","140,141",CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,"1,807",N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,914,N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,"1,230",N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,"1,667",N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,485,N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,136,N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,16,N,N,N,CBP_2020
+"Dallas County, Texas",72,Accommodation and food services,All establishments,Establishments with 500 to 999 employees,2020,8,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,All establishments,2020,"5,281","2,347,450","659,209","54,541",CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"3,196",N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,954,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,585,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,364,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,105,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,56,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,16,N,N,N,CBP_2020
+"Dallas County, Texas",81,Other services (except public administration),All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Dallas County, Texas",99,Industries not classified,All establishments,All establishments,2020,94,"4,929","1,158",155,CBP_2020
+"Dallas County, Texas",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,83,N,N,N,CBP_2020
+"Dallas County, Texas",99,Industries not classified,All establishments,Establishments with 5 to 9 employees,2020,8,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,All establishments,2020,"31,769","57,393,417","15,250,175","672,100",CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"17,745",N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"4,838",N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"3,783",N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"3,009",N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"1,205",N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,789,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,239,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,108,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,53,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,28,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,12,N,N,N,CBP_2020
+"Fairfax County, Virginia",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,11,N,N,N,CBP_2020
+"Fairfax County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,5,"21,085","5,326",220,CBP_2020
+"Fairfax County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,3,N,N,N,CBP_2020
+"Fairfax County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,5,"7,020","1,899",70,CBP_2020
+"Fairfax County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 5 to 9 employees,2020,3,N,N,N,CBP_2020
+"Fairfax County, Virginia",22,Utilities,All establishments,All establishments,2020,19,"167,271","49,083","1,364",CBP_2020
+"Fairfax County, Virginia",22,Utilities,All establishments,Establishments with less than 5 employees,2020,9,N,N,N,CBP_2020
+"Fairfax County, Virginia",22,Utilities,All establishments,Establishments with 50 to 99 employees,2020,3,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,All establishments,2020,"2,384","2,265,823","606,178","30,826",CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with less than 5 employees,2020,"1,614",N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,316,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,199,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,155,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,52,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,33,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Fairfax County, Virginia",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,6,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,All establishments,2020,349,"358,216","91,057","5,874",CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,164,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,67,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,58,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,36,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,CBP_2020
+"Fairfax County, Virginia",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,7,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,All establishments,2020,798,"2,041,122","463,408","15,248",CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,438,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,126,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,99,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,77,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,23,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,All establishments,2020,"2,577","1,715,096","428,172","52,277",CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,000",N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,553,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,456,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,324,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,125,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,98,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,17,N,N,N,CBP_2020
+"Fairfax County, Virginia",44-45,Retail trade,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2020,438,"483,792","112,865","10,046",CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,287,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,43,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,38,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,30,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,17,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,CBP_2020
+"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,All establishments,2020,868,"5,961,188","1,690,059","38,920",CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with less than 5 employees,2020,402,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 5 to 9 employees,2020,118,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 10 to 19 employees,2020,93,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 20 to 49 employees,2020,104,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 50 to 99 employees,2020,65,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 100 to 249 employees,2020,49,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,Establishments with 500 to 999 employees,2020,15,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",51,Information,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,All establishments,2020,"1,685","4,667,264","1,493,208","31,245",CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,984,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,340,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,183,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,93,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,47,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,11,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Fairfax County, Virginia",52,Finance and insurance,All establishments,"Establishments with 1,000 employees or more",2020,5,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,758","980,008","273,197","11,712",CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"1,337",N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,211,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,124,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,46,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,24,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,11,N,N,N,CBP_2020
+"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"8,861","25,659,466","6,507,110","228,318",CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"5,688",N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,916,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,768,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,689,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,349,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,272,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,108,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,48,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,23,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 to 1,499 employees",2020,11,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,500 to 2,499 employees",2020,6,N,N,N,CBP_2020
+"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,"Establishments with 2,500 to 4,999 employees",2020,6,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2020,355,"2,761,085","858,638","21,034",CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,166,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,54,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,31,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,39,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,28,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,13,N,N,N,CBP_2020
+"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,808","3,467,040","863,169","63,936",CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,960,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,250,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,189,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,182,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,106,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,80,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,24,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,11,N,N,N,CBP_2020
+"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,6,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,All establishments,2020,702,"753,148","185,061","13,133",CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with less than 5 employees,2020,337,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,101,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,132,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,80,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,CBP_2020
+"Fairfax County, Virginia",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,All establishments,2020,"3,500","3,918,863","976,477","65,883",CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"1,697",N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,757,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,512,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,350,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,99,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,58,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,15,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,7,N,N,N,CBP_2020
+"Fairfax County, Virginia",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,6,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,409,"233,231","85,586","11,188",CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,213,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,47,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,59,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,44,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,24,N,N,N,CBP_2020
+"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,18,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,All establishments,2020,"2,418","854,596","263,125","46,807",CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,739,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,443,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,483,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,546,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,149,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,53,N,N,N,CBP_2020
+"Fairfax County, Virginia",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,All establishments,2020,"2,759","1,076,061","296,116","23,941",CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"1,637",N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,490,N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,356,N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,211,N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,49,N,N,N,CBP_2020
+"Fairfax County, Virginia",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,12,N,N,N,CBP_2020
+"Fairfax County, Virginia",99,Industries not classified,All establishments,All establishments,2020,71,"2,042",441,58,CBP_2020
+"Fairfax County, Virginia",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,69,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,All establishments,2020,"11,348","10,346,522","2,666,820","169,437",CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"6,783",N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"1,610",N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"1,284",N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"1,064",N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,353,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,179,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,45,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,18,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,7,N,N,N,CBP_2020
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,25,"2,173",461,56,CBP_2020
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,21,N,N,N,CBP_2020
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,7,"23,739","5,916",233,CBP_2020
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",22,Utilities,All establishments,All establishments,2020,7,"11,732","3,070",127,CBP_2020
+"Loudoun County, Virginia",22,Utilities,All establishments,Establishments with less than 5 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,All establishments,2020,890,"968,326","239,505","14,153",CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with less than 5 employees,2020,513,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,138,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,100,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,88,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,17,N,N,N,CBP_2020
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,All establishments,2020,194,"507,966","122,985","5,952",CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,76,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,35,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,36,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,23,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,CBP_2020
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,7,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,All establishments,2020,302,"272,645","77,425","3,994",CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,163,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,52,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,49,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,20,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,9,N,N,N,CBP_2020
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,All establishments,2020,"1,032","608,112","149,205","19,936",CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,414,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,211,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,179,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,145,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,44,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,29,N,N,N,CBP_2020
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2020,348,"600,533","187,384","14,920",CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,186,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,47,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,37,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,42,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,15,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,12,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,All establishments,2020,334,"1,197,133","401,367","9,492",CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with less than 5 employees,2020,189,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 5 to 9 employees,2020,46,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 10 to 19 employees,2020,33,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 20 to 49 employees,2020,27,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 50 to 99 employees,2020,19,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 100 to 249 employees,2020,10,N,N,N,CBP_2020
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,All establishments,2020,405,"376,329","83,074","3,458",CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,266,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,77,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,37,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,16,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2020,522,"103,549","24,876","1,756",CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,447,N,N,N,CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,34,N,N,N,CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,28,N,N,N,CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,9,N,N,N,CBP_2020
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"3,370","2,931,362","703,251","29,783",CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"2,625",N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,284,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,205,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,147,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,62,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,33,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,CBP_2020
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2020,55,"278,367","73,144","3,308",CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,27,N,N,N,CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,7,N,N,N,CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,6,N,N,N,CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,615,"625,835","150,465","14,168",CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,323,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,93,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,68,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,81,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,29,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,CBP_2020
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,All establishments,2020,253,"82,692","22,268","3,017",CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with less than 5 employees,2020,119,N,N,N,CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,42,N,N,N,CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,49,N,N,N,CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,35,N,N,N,CBP_2020
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,6,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,All establishments,2020,"1,064","767,491","191,082","15,130",CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,524,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,229,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,158,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,102,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,38,N,N,N,CBP_2020
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,9,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,184,"335,080","42,492","4,524",CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,83,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,33,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,23,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,28,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,9,N,N,N,CBP_2020
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,6,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,All establishments,2020,798,"316,252","100,811","17,826",CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,204,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,145,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,157,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,218,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,56,N,N,N,CBP_2020
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,15,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,All establishments,2020,920,"335,900","87,853","7,578",CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,576,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,137,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,116,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,73,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,12,N,N,N,CBP_2020
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,4,N,N,N,CBP_2020
+"Loudoun County, Virginia",99,Industries not classified,All establishments,All establishments,2020,23,"1,306",186,26,CBP_2020
+"Loudoun County, Virginia",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,23,N,N,N,CBP_2020
