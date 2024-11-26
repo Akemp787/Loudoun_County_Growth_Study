@@ -1,5 +1,4 @@
-51919,data_type
-51919,Fairfax County
-"* Virginia combination areas consist of one or two independent cities with 1980 populations of less than 100,000 combined with an adjacent county. The county name appears first, followed by the city name(s). Separate estimates for the jurisdictions making up the combination area are not available. Bedford County, VA includes the independent city of Bedford for all years.",Fairfax County
-"Metropolitan Areas are defined (geographically delineated) by the Office of Management and Budget (OMB) bulletin no. 20-01 issued March 6, 2020.",Fairfax County
-"Last updated: November 1, 2024 -- revised statistics for 2001-2016.",Fairfax County
+geofips,geoname,linecode,description,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,data_type
+51919,"Fairfax, Fairfax City + Falls Church, VA*",1.0,Real GDP (thousands of chained 2017 dollars),74858286.0,77407633.0,81803300.0,87352500.0,93302309.0,95036236.0,96657812.0,98806347.0,98392102.0,102358252.0,104106773.0,107372818.0,108458197.0,108533102.0,109923813.0,111444480.0,114188029.0,119273660.0,125609583.0,125345421.0,133352801.0,137925802.0,Fairfax County
+51919,"Fairfax, Fairfax City + Falls Church, VA*",2.0,Chain-type quantity indexes for real GDP,65.557,67.79,71.639,76.499,81.709,83.228,84.648,86.53,86.167,89.64,91.171,94.032,94.982,95.048,96.266,97.597,100.0,104.454,110.002,109.771,116.784,120.788,Fairfax County
+51919,"Fairfax, Fairfax City + Falls Church, VA*",3.0,Current-dollar GDP (thousands of current dollars),59653559.0,62685170.0,67144671.0,73089795.0,79788271.0,83667792.0,87151504.0,90132024.0,90797223.0,94433747.0,96809847.0,101104181.0,103181347.0,104445868.0,107483959.0,110231851.0,114188029.0,120738631.0,129015685.0,130155397.0,141142785.0,151888956.0,Fairfax County
