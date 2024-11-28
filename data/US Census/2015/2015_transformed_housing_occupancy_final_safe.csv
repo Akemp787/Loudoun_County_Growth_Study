@@ -1,0 +1,43 @@
+label_grouping,value,county,metric
+Total:,"660,622",santa_clara_county_californiaestimate,Unknown
+    Occupied,"633,786",santa_clara_county_californiaestimate,Unknown
+    Vacant,"26,836",santa_clara_county_californiaestimate,Unknown
+Total:,±868,santa_clara_county_californiamargin_of_error,Unknown
+    Occupied,"±3,221",santa_clara_county_californiamargin_of_error,Unknown
+    Vacant,"±3,200",santa_clara_county_californiamargin_of_error,Unknown
+Total:,"389,030",montgomery_county_marylandestimate,Unknown
+    Occupied,"371,458",montgomery_county_marylandestimate,Unknown
+    Vacant,"17,572",montgomery_county_marylandestimate,Unknown
+Total:,±486,montgomery_county_marylandmargin_of_error,Unknown
+    Occupied,"±2,800",montgomery_county_marylandmargin_of_error,Unknown
+    Vacant,"±2,747",montgomery_county_marylandmargin_of_error,Unknown
+Total:,"411,470",wake_county_north_carolinaestimate,Unknown
+    Occupied,"382,638",wake_county_north_carolinaestimate,Unknown
+    Vacant,"28,832",wake_county_north_carolinaestimate,Unknown
+Total:,±999,wake_county_north_carolinamargin_of_error,Unknown
+    Occupied,"±3,461",wake_county_north_carolinamargin_of_error,Unknown
+    Vacant,"±3,292",wake_county_north_carolinamargin_of_error,Unknown
+Total:,"298,808",davidson_county_tennesseeestimate,Unknown
+    Occupied,"274,187",davidson_county_tennesseeestimate,Unknown
+    Vacant,"24,621",davidson_county_tennesseeestimate,Unknown
+Total:,"±1,124",davidson_county_tennesseemargin_of_error,Unknown
+    Occupied,"±3,026",davidson_county_tennesseemargin_of_error,Unknown
+    Vacant,"±2,822",davidson_county_tennesseemargin_of_error,Unknown
+Total:,"985,429",dallas_county_texasestimate,Unknown
+    Occupied,"905,250",dallas_county_texasestimate,Unknown
+    Vacant,"80,179",dallas_county_texasestimate,Unknown
+Total:,±987,dallas_county_texasmargin_of_error,Unknown
+    Occupied,"±4,540",dallas_county_texasmargin_of_error,Unknown
+    Vacant,"±4,618",dallas_county_texasmargin_of_error,Unknown
+Total:,"412,082",fairfax_county_virginiaestimate,Unknown
+    Occupied,"392,822",fairfax_county_virginiaestimate,Unknown
+    Vacant,"19,260",fairfax_county_virginiaestimate,Unknown
+Total:,±829,fairfax_county_virginiamargin_of_error,Unknown
+    Occupied,"±2,616",fairfax_county_virginiamargin_of_error,Unknown
+    Vacant,"±2,481",fairfax_county_virginiamargin_of_error,Unknown
+Total:,"126,508",loudoun_county_virginiaestimate,Unknown
+    Occupied,"120,559",loudoun_county_virginiaestimate,Unknown
+    Vacant,"5,949",loudoun_county_virginiaestimate,Unknown
+Total:,±374,loudoun_county_virginiamargin_of_error,Unknown
+    Occupied,"±1,405",loudoun_county_virginiamargin_of_error,Unknown
+    Vacant,"±1,345",loudoun_county_virginiamargin_of_error,Unknown
