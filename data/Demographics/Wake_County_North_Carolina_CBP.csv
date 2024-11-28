@@ -1,0 +1,495 @@
+Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+"Wake County, North Carolina",00,Total for all sectors,All establishments,All establishments,2019,"30,266","29,620,559","7,515,502","497,013",
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2019,"16,412",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2019,"5,121",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2019,"3,665",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2019,"3,128",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2019,"1,143",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2019,588,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2019,142,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2019,47,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2019,20,N,N,N,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,26,"7,397","1,541",176,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2019,19,N,N,N,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2019,3,N,N,N,
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,10,"19,883","5,608",227,
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2019,6,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,All establishments,2019,79,"341,776","126,814","3,218",
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with less than 5 employees,2019,47,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 5 to 9 employees,2019,8,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 10 to 19 employees,2019,5,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 20 to 49 employees,2019,4,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 50 to 99 employees,2019,7,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 100 to 249 employees,2019,4,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 250 to 499 employees,2019,3,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,All establishments,2019,"2,940","1,858,296","439,646","30,631",
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with less than 5 employees,2019,"1,872",N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 5 to 9 employees,2019,436,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 10 to 19 employees,2019,265,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 20 to 49 employees,2019,242,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 50 to 99 employees,2019,85,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 100 to 249 employees,2019,29,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 250 to 499 employees,2019,9,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,All establishments,2019,588,"895,546","220,702","14,514",
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2019,266,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2019,113,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2019,85,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2019,65,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2019,23,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2019,25,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2019,7,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2019,4,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,All establishments,2019,"1,380","2,802,172","662,551","28,375",
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2019,660,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2019,239,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2019,220,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2019,156,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2019,56,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2019,36,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2019,8,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2019,3,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,All establishments,2019,"3,462","1,789,661","440,286","61,530",
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2019,"1,405",N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2019,748,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2019,614,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2019,389,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2019,177,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2019,113,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2019,16,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,All establishments,2019,541,"485,386","120,647","10,829",
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2019,315,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2019,75,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2019,47,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2019,55,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2019,30,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2019,14,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2019,3,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,All establishments,2019,686,"3,320,633","942,405","28,772",
+"Wake County, North Carolina",51,Information,All establishments,Establishments with less than 5 employees,2019,352,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 5 to 9 employees,2019,95,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 10 to 19 employees,2019,69,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 20 to 49 employees,2019,81,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 50 to 99 employees,2019,44,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 100 to 249 employees,2019,21,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 250 to 499 employees,2019,11,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 500 to 999 employees,2019,11,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,All establishments,2019,"1,800","2,757,219","850,010","27,661",
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2019,"1,122",N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2019,358,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2019,154,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2019,97,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2019,27,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2019,23,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2019,10,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2019,4,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,"Establishments with 1,000 employees or more",2019,5,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,All establishments,2019,"1,910","588,449","143,557","9,793",
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2019,"1,413",N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2019,310,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2019,99,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2019,66,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2019,14,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2019,6,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"5,016","5,972,315","1,411,096","60,348",
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2019,"3,556",N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2019,571,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2019,381,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2019,286,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2019,100,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2019,93,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2019,19,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2019,8,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,All establishments,2019,291,"987,337","302,116","9,565",
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2019,119,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2019,51,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2019,36,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2019,42,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2019,19,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2019,21,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"1,956","1,727,433","404,282","40,295",
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2019,"1,122",N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2019,292,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2019,201,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2019,171,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2019,92,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2019,51,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2019,19,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2019,6,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,All establishments,2019,553,"419,553","102,304","11,438",
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with less than 5 employees,2019,267,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 5 to 9 employees,2019,86,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 10 to 19 employees,2019,89,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 20 to 49 employees,2019,64,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 50 to 99 employees,2019,30,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 100 to 249 employees,2019,9,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 250 to 499 employees,2019,7,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,All establishments,2019,"3,191","3,492,369","816,226","66,300",
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2019,"1,383",N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2019,692,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2019,522,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2019,394,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2019,117,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2019,63,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2019,12,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2019,4,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2019,4,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,507,"296,856","84,363","12,730",
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2019,259,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2019,77,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2019,64,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2019,45,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2019,30,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2019,23,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2019,8,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,All establishments,2019,"2,559","1,067,427","252,407","57,187",
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2019,621,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2019,371,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2019,511,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2019,763,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2019,251,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2019,38,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2019,4,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,All establishments,2019,"2,733","788,857","188,409","23,364",
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2019,"1,577",N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2019,594,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2019,300,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2019,199,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2019,40,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2019,19,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2019,3,N,N,N,
+"Wake County, North Carolina",99,Industries not classified,All establishments,All establishments,2019,38,"1,994",532,60,
+"Wake County, North Carolina",99,Industries not classified,All establishments,Establishments with less than 5 employees,2019,35,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,All establishments,2020,"30,855","30,084,000","7,892,464","507,958",
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"16,922",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"5,023",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"3,783",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"3,173",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"1,148",N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,584,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,150,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,50,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,22,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,8,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,10,N,N,N,
+"Wake County, North Carolina",00,Total for all sectors,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,26,"8,404","1,736",192,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,17,N,N,N,
+"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,5,N,N,N,
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,12,"21,375","6,011",222,
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2020,4,N,N,N,
+"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,6,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,All establishments,2020,80,"343,487","125,935","3,146",
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with less than 5 employees,2020,47,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 5 to 9 employees,2020,8,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,6,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 20 to 49 employees,2020,5,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 50 to 99 employees,2020,6,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 100 to 249 employees,2020,4,N,N,N,
+"Wake County, North Carolina",22,Utilities,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,All establishments,2020,"3,006","1,971,714","489,966","32,586",
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with less than 5 employees,2020,"1,917",N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,433,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,282,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,234,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,88,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,43,N,N,N,
+"Wake County, North Carolina",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,All establishments,2020,591,"1,010,762","253,647","15,348",
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,270,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,107,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,91,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,69,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,18,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,24,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,
+"Wake County, North Carolina",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,All establishments,2020,"1,398","2,478,868","622,227","26,916",
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,659,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,242,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,221,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,172,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,60,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,32,N,N,N,
+"Wake County, North Carolina",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,All establishments,2020,"3,447","1,848,153","450,340","61,113",
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,395",N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,725,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,620,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,403,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,185,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,101,N,N,N,
+"Wake County, North Carolina",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,18,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,All establishments,2020,581,"492,429","127,398","11,799",
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,366,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,60,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,45,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,54,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,32,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,19,N,N,N,
+"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,All establishments,2020,728,"3,437,294","931,870","29,958",
+"Wake County, North Carolina",51,Information,All establishments,Establishments with less than 5 employees,2020,397,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 5 to 9 employees,2020,100,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 10 to 19 employees,2020,71,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 20 to 49 employees,2020,75,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 50 to 99 employees,2020,38,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 100 to 249 employees,2020,24,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,Establishments with 500 to 999 employees,2020,12,N,N,N,
+"Wake County, North Carolina",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,All establishments,2020,"1,823","3,003,027","943,327","29,147",
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,"1,126",N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,364,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,161,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,99,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,23,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,13,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,
+"Wake County, North Carolina",52,Finance and insurance,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,All establishments,2020,"2,040","605,574","151,943","10,104",
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"1,545",N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,305,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,100,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,66,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,15,N,N,N,
+"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,7,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"5,132","6,094,306","1,546,734","63,404",
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"3,641",N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,564,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,407,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,289,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,121,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,76,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,20,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,
+"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,All establishments,2020,284,"983,811","299,858","10,507",
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,117,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,43,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,31,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,52,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,18,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,18,N,N,N,
+"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,016","1,842,838","430,766","40,046",
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,158",N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,301,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,210,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,194,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,76,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,50,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,20,N,N,N,
+"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,5,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,All establishments,2020,556,"437,921","106,924","11,852",
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with less than 5 employees,2020,281,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,83,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,76,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,65,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,30,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,13,N,N,N,
+"Wake County, North Carolina",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,All establishments,2020,"3,245","3,608,072","851,363","67,477",
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"1,425",N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,662,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,563,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,393,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,115,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,65,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,14,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Wake County, North Carolina",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,510,"232,581","92,595","13,367",
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,263,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,75,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,55,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,55,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,30,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,23,N,N,N,
+"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,All establishments,2020,"2,554","886,735","262,625","57,348",
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,616,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,382,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,518,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,739,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,253,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,41,N,N,N,
+"Wake County, North Carolina",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,All establishments,2020,"2,796","775,287","196,951","23,397",
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"1,650",N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,562,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,323,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,201,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,39,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,
+"Wake County, North Carolina",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,5,N,N,N,
+"Wake County, North Carolina",99,Industries not classified,All establishments,All establishments,2020,30,"1,362",248,29,
+"Wake County, North Carolina",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,28,N,N,N,
+"Wake County, North Carolina",00,,All establishments,All establishments,2021,"32,026","34,259,007","8,286,212","497,107",Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with less than 5 employees,2021,"18,024",N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 5 to 9 employees,2021,"5,202",N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 10 to 19 employees,2021,"3,844",N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 20 to 49 employees,2021,"3,158",N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 50 to 99 employees,2021,"1,024",N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 100 to 249 employees,2021,563,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 250 to 499 employees,2021,140,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,Establishments with 500 to 999 employees,2021,49,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,"Establishments with 1,000 employees or more",2021,22,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,9,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,9,N,N,N,Total for all sectors
+"Wake County, North Carolina",00,,All establishments,"Establishments with 5,000 employees or more",2021,3,N,N,N,Total for all sectors
+"Wake County, North Carolina",11,,All establishments,All establishments,2021,25,"7,924","1,624",180,"Agriculture, forestry, fishing and hunting"
+"Wake County, North Carolina",11,,All establishments,Establishments with less than 5 employees,2021,18,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Wake County, North Carolina",21,,All establishments,All establishments,2021,13,"23,684","6,818",215,"Mining, quarrying, and oil and gas extraction"
+"Wake County, North Carolina",21,,All establishments,Establishments with less than 5 employees,2021,5,N,N,N,"Mining, quarrying, and oil and gas extraction"
+"Wake County, North Carolina",21,,All establishments,Establishments with 10 to 19 employees,2021,3,N,N,N,"Mining, quarrying, and oil and gas extraction"
+"Wake County, North Carolina",21,,All establishments,Establishments with 20 to 49 employees,2021,5,N,N,N,"Mining, quarrying, and oil and gas extraction"
+"Wake County, North Carolina",22,,All establishments,All establishments,2021,82,"344,094","126,550","3,110",Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with less than 5 employees,2021,49,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 5 to 9 employees,2021,9,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 10 to 19 employees,2021,5,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 20 to 49 employees,2021,5,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 50 to 99 employees,2021,6,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 100 to 249 employees,2021,4,N,N,N,Utilities
+"Wake County, North Carolina",22,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Utilities
+"Wake County, North Carolina",23,,All establishments,All establishments,2021,"3,155","2,241,984","505,609","33,295",Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with less than 5 employees,2021,"2,036",N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 5 to 9 employees,2021,424,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 10 to 19 employees,2021,308,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 20 to 49 employees,2021,253,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 50 to 99 employees,2021,82,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 100 to 249 employees,2021,43,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 250 to 499 employees,2021,6,N,N,N,Construction
+"Wake County, North Carolina",23,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Construction
+"Wake County, North Carolina",31-33,,All establishments,All establishments,2021,587,"1,100,258","251,441","14,918",Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with less than 5 employees,2021,259,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 5 to 9 employees,2021,110,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 10 to 19 employees,2021,101,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 20 to 49 employees,2021,63,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 50 to 99 employees,2021,23,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 100 to 249 employees,2021,18,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 250 to 499 employees,2021,9,N,N,N,Manufacturing
+"Wake County, North Carolina",31-33,,All establishments,Establishments with 500 to 999 employees,2021,4,N,N,N,Manufacturing
+"Wake County, North Carolina",42,,All establishments,All establishments,2021,"1,419","2,776,485","685,052","26,648",Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with less than 5 employees,2021,685,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 5 to 9 employees,2021,245,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 10 to 19 employees,2021,217,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 20 to 49 employees,2021,172,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 50 to 99 employees,2021,55,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 100 to 249 employees,2021,33,N,N,N,Wholesale trade
+"Wake County, North Carolina",42,,All establishments,Establishments with 250 to 499 employees,2021,9,N,N,N,Wholesale trade
+"Wake County, North Carolina",44-45,,All establishments,All establishments,2021,"3,570","2,132,182","490,143","64,512",Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with less than 5 employees,2021,"1,543",N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 5 to 9 employees,2021,760,N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 10 to 19 employees,2021,565,N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 20 to 49 employees,2021,392,N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 50 to 99 employees,2021,159,N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 100 to 249 employees,2021,129,N,N,N,Retail trade
+"Wake County, North Carolina",44-45,,All establishments,Establishments with 250 to 499 employees,2021,21,N,N,N,Retail trade
+"Wake County, North Carolina",48-49,,All establishments,All establishments,2021,698,"524,757","119,162","11,841",Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with less than 5 employees,2021,467,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 5 to 9 employees,2021,65,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 10 to 19 employees,2021,51,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 20 to 49 employees,2021,53,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 50 to 99 employees,2021,41,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 100 to 249 employees,2021,16,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",48-49,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Transportation and warehousing
+"Wake County, North Carolina",51,,All establishments,All establishments,2021,733,"4,343,219","1,062,708","28,468",Information
+"Wake County, North Carolina",51,,All establishments,Establishments with less than 5 employees,2021,390,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 5 to 9 employees,2021,117,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 10 to 19 employees,2021,67,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 20 to 49 employees,2021,79,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 50 to 99 employees,2021,27,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 100 to 249 employees,2021,30,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 250 to 499 employees,2021,13,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,Establishments with 500 to 999 employees,2021,7,N,N,N,Information
+"Wake County, North Carolina",51,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,Information
+"Wake County, North Carolina",52,,All establishments,All establishments,2021,"1,819","3,174,480","1,010,221","28,905",Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with less than 5 employees,2021,"1,146",N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 5 to 9 employees,2021,344,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 10 to 19 employees,2021,166,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 20 to 49 employees,2021,91,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 50 to 99 employees,2021,23,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 100 to 249 employees,2021,31,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 250 to 499 employees,2021,9,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,Establishments with 500 to 999 employees,2021,5,N,N,N,Finance and insurance
+"Wake County, North Carolina",52,,All establishments,"Establishments with 1,000 employees or more",2021,4,N,N,N,Finance and insurance
+"Wake County, North Carolina",53,,All establishments,All establishments,2021,"2,190","657,489","149,439","9,538",Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with less than 5 employees,2021,"1,675",N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with 5 to 9 employees,2021,329,N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with 10 to 19 employees,2021,97,N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with 20 to 49 employees,2021,71,N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with 50 to 99 employees,2021,13,N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",53,,All establishments,Establishments with 100 to 249 employees,2021,4,N,N,N,Real estate and rental and leasing
+"Wake County, North Carolina",54,,All establishments,All establishments,2021,"5,404","6,590,859","1,507,357","62,030","Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with less than 5 employees,2021,"3,844",N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 5 to 9 employees,2021,628,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 10 to 19 employees,2021,414,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 20 to 49 employees,2021,285,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 50 to 99 employees,2021,131,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 100 to 249 employees,2021,69,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 250 to 499 employees,2021,20,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,Establishments with 500 to 999 employees,2021,10,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",54,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,"Professional, scientific, and technical services"
+"Wake County, North Carolina",55,,All establishments,All establishments,2021,293,"1,089,570","314,852","10,879",Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with less than 5 employees,2021,122,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 5 to 9 employees,2021,39,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 10 to 19 employees,2021,43,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 20 to 49 employees,2021,48,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 50 to 99 employees,2021,15,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 100 to 249 employees,2021,20,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",55,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Management of companies and enterprises
+"Wake County, North Carolina",56,,All establishments,All establishments,2021,"2,090","2,068,938","463,714","40,249",Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with less than 5 employees,2021,"1,204",N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 5 to 9 employees,2021,330,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 10 to 19 employees,2021,205,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 20 to 49 employees,2021,184,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 50 to 99 employees,2021,94,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 100 to 249 employees,2021,46,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 250 to 499 employees,2021,20,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,Establishments with 500 to 999 employees,2021,4,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",56,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,Administrative and support and waste management and remediation services
+"Wake County, North Carolina",61,,All establishments,All establishments,2021,571,"463,254","108,318","11,116",Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with less than 5 employees,2021,311,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 5 to 9 employees,2021,73,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 10 to 19 employees,2021,75,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 20 to 49 employees,2021,62,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 50 to 99 employees,2021,31,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 100 to 249 employees,2021,12,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 250 to 499 employees,2021,4,N,N,N,Educational services
+"Wake County, North Carolina",61,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Educational services
+"Wake County, North Carolina",62,,All establishments,All establishments,2021,"3,386","4,498,842","997,617","72,728",Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with less than 5 employees,2021,"1,523",N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 5 to 9 employees,2021,678,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 10 to 19 employees,2021,579,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 20 to 49 employees,2021,412,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 50 to 99 employees,2021,117,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 100 to 249 employees,2021,54,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 250 to 499 employees,2021,13,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,Establishments with 500 to 999 employees,2021,5,N,N,N,Health care and social assistance
+"Wake County, North Carolina",62,,All establishments,"Establishments with 1,000 employees or more",2021,5,N,N,N,Health care and social assistance
+"Wake County, North Carolina",71,,All establishments,All establishments,2021,537,"305,736","74,113","8,287","Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with less than 5 employees,2021,293,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with 5 to 9 employees,2021,79,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with 10 to 19 employees,2021,71,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with 20 to 49 employees,2021,53,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with 50 to 99 employees,2021,23,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",71,,All establishments,Establishments with 100 to 249 employees,2021,17,N,N,N,"Arts, entertainment, and recreation"
+"Wake County, North Carolina",72,,All establishments,All establishments,2021,"2,576","1,076,366","219,535","48,605",Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with less than 5 employees,2021,695,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 5 to 9 employees,2021,373,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 10 to 19 employees,2021,596,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 20 to 49 employees,2021,732,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 50 to 99 employees,2021,155,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 100 to 249 employees,2021,22,N,N,N,Accommodation and food services
+"Wake County, North Carolina",72,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Accommodation and food services
+"Wake County, North Carolina",81,,All establishments,All establishments,2021,"2,854","837,927","191,643","21,546",Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with less than 5 employees,2021,"1,737",N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 5 to 9 employees,2021,597,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 10 to 19 employees,2021,277,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 20 to 49 employees,2021,196,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 50 to 99 employees,2021,28,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 100 to 249 employees,2021,15,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",81,,All establishments,Establishments with 250 to 499 employees,2021,4,N,N,N,Other services (except public administration)
+"Wake County, North Carolina",99,,All establishments,All establishments,2021,24,959,296,37,Industries not classified
+"Wake County, North Carolina",99,,All establishments,Establishments with less than 5 employees,2021,22,N,N,N,Industries not classified

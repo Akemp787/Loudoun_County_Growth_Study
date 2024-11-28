@@ -1,0 +1,411 @@
+Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,All establishments,2019,"11,028","10,312,852","2,552,811","168,351",
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2019,"6,481",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2019,"1,637",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2019,"1,293",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2019,"1,038",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2019,329,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2019,170,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2019,54,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2019,14,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2019,12,N,N,N,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,25,"2,036",501,69,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2019,21,N,N,N,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2019,3,N,N,N,
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,6,"25,393","12,416",593,
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2019,3,N,N,N,
+"Loudoun County, Virginia",22,Utilities,All establishments,All establishments,2019,5,"8,361","2,267",95,
+"Loudoun County, Virginia",23,Construction,All establishments,All establishments,2019,883,"966,621","226,715","14,225",
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with less than 5 employees,2019,500,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 5 to 9 employees,2019,140,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 10 to 19 employees,2019,96,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 20 to 49 employees,2019,98,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 50 to 99 employees,2019,27,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 100 to 249 employees,2019,15,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 250 to 499 employees,2019,4,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,All establishments,2019,194,"496,644","121,784","5,729",
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2019,75,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2019,41,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2019,31,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2019,25,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2019,12,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2019,7,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,All establishments,2019,286,"257,407","67,053","3,372",
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2019,143,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2019,61,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2019,45,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2019,21,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2019,10,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2019,6,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,All establishments,2019,"1,053","592,876","144,128","19,356",
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2019,402,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2019,238,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2019,190,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2019,134,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2019,56,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2019,26,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2019,7,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2019,340,"662,149","170,984","13,563",
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2019,179,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2019,51,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2019,39,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2019,42,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2019,12,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2019,8,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2019,5,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,"Establishments with 1,000 employees or more",2019,3,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,All establishments,2019,312,"1,222,338","404,154","10,026",
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with less than 5 employees,2019,164,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 5 to 9 employees,2019,50,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 10 to 19 employees,2019,29,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 20 to 49 employees,2019,33,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 50 to 99 employees,2019,15,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 100 to 249 employees,2019,9,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 250 to 499 employees,2019,9,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,All establishments,2019,398,"340,235","82,061","3,506",
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2019,264,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2019,74,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2019,36,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2019,18,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2019,4,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2019,485,"103,400","23,998","1,731",
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2019,405,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2019,46,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2019,19,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2019,10,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2019,4,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"3,216","2,793,340","658,042","31,048",
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2019,"2,505",N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2019,261,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2019,210,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2019,141,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2019,50,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2019,32,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2019,13,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2019,58,"320,347","81,494","3,655",
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2019,27,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2019,3,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2019,6,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2019,5,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2019,7,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2019,8,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,605,"653,641","151,137","14,794",
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2019,317,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2019,94,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2019,67,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2019,79,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2019,23,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2019,18,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2019,4,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,All establishments,2019,247,"85,474","21,183","2,953",
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with less than 5 employees,2019,121,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 5 to 9 employees,2019,32,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 10 to 19 employees,2019,56,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 20 to 49 employees,2019,30,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 50 to 99 employees,2019,6,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,All establishments,2019,"1,049","738,162","171,938","14,567",
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2019,520,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2019,227,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2019,156,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2019,109,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2019,26,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2019,7,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,179,"297,391","34,265","3,981",
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2019,82,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2019,29,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2019,24,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2019,27,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2019,9,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2019,6,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,All establishments,2019,780,"409,627","95,782","17,444",
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2019,201,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2019,132,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2019,177,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2019,192,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2019,54,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2019,21,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,All establishments,2019,890,"336,865","82,795","7,626",
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2019,537,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2019,152,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2019,110,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2019,71,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2019,15,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2019,3,N,N,N,
+"Loudoun County, Virginia",99,Industries not classified,All establishments,All establishments,2019,17,545,114,18,
+"Loudoun County, Virginia",99,Industries not classified,All establishments,Establishments with less than 5 employees,2019,15,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,All establishments,2020,"11,348","10,346,522","2,666,820","169,437",
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"6,783",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"1,610",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"1,284",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"1,064",N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,353,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,179,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,45,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,18,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,7,N,N,N,
+"Loudoun County, Virginia",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,25,"2,173",461,56,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,21,N,N,N,
+"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,7,"23,739","5,916",233,
+"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 20 to 49 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",22,Utilities,All establishments,All establishments,2020,7,"11,732","3,070",127,
+"Loudoun County, Virginia",22,Utilities,All establishments,Establishments with less than 5 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,All establishments,2020,890,"968,326","239,505","14,153",
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with less than 5 employees,2020,513,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,138,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,100,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,88,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,17,N,N,N,
+"Loudoun County, Virginia",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,All establishments,2020,194,"507,966","122,985","5,952",
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,76,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,35,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,36,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,23,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,14,N,N,N,
+"Loudoun County, Virginia",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,7,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,All establishments,2020,302,"272,645","77,425","3,994",
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,163,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,52,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,49,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,20,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,9,N,N,N,
+"Loudoun County, Virginia",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,All establishments,2020,"1,032","608,112","149,205","19,936",
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,414,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,211,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,179,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,145,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,44,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,29,N,N,N,
+"Loudoun County, Virginia",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,9,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2020,348,"600,533","187,384","14,920",
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,186,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,47,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,37,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,42,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,15,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,12,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,All establishments,2020,334,"1,197,133","401,367","9,492",
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with less than 5 employees,2020,189,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 5 to 9 employees,2020,46,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 10 to 19 employees,2020,33,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 20 to 49 employees,2020,27,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 50 to 99 employees,2020,19,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 100 to 249 employees,2020,10,N,N,N,
+"Loudoun County, Virginia",51,Information,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,All establishments,2020,405,"376,329","83,074","3,458",
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,266,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,77,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,37,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,16,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2020,522,"103,549","24,876","1,756",
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,447,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,34,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,28,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,9,N,N,N,
+"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"3,370","2,931,362","703,251","29,783",
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"2,625",N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,284,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,205,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,147,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,62,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,33,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,8,N,N,N,
+"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2020,55,"278,367","73,144","3,308",
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,27,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,7,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,6,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,8,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,615,"625,835","150,465","14,168",
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,323,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,93,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,68,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,81,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,29,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,16,N,N,N,
+"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,3,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,All establishments,2020,253,"82,692","22,268","3,017",
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with less than 5 employees,2020,119,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,42,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,49,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,35,N,N,N,
+"Loudoun County, Virginia",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,6,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,All establishments,2020,"1,064","767,491","191,082","15,130",
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,524,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,229,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,158,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,102,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,38,N,N,N,
+"Loudoun County, Virginia",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,9,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,184,"335,080","42,492","4,524",
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,83,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,33,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,23,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,28,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,9,N,N,N,
+"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,6,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,All establishments,2020,798,"316,252","100,811","17,826",
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,204,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,145,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,157,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,218,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,56,N,N,N,
+"Loudoun County, Virginia",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,15,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,All establishments,2020,920,"335,900","87,853","7,578",
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,576,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,137,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,116,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,73,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,12,N,N,N,
+"Loudoun County, Virginia",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,4,N,N,N,
+"Loudoun County, Virginia",99,Industries not classified,All establishments,All establishments,2020,23,"1,306",186,26,
+"Loudoun County, Virginia",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,23,N,N,N,
+"Loudoun County, Virginia",00,,All establishments,All establishments,2021,"11,720","11,376,219","2,689,652","164,564",Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with less than 5 employees,2021,"7,198",N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 5 to 9 employees,2021,"1,637",N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 10 to 19 employees,2021,"1,313",N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 20 to 49 employees,2021,"1,019",N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 50 to 99 employees,2021,320,N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 100 to 249 employees,2021,157,N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 250 to 499 employees,2021,45,N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,Establishments with 500 to 999 employees,2021,22,N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,"Establishments with 1,000 employees or more",2021,9,N,N,N,Total for all sectors
+"Loudoun County, Virginia",00,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,5,N,N,N,Total for all sectors
+"Loudoun County, Virginia",11,,All establishments,All establishments,2021,27,"2,218",518,61,"Agriculture, forestry, fishing and hunting"
+"Loudoun County, Virginia",11,,All establishments,Establishments with less than 5 employees,2021,22,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Loudoun County, Virginia",11,,All establishments,Establishments with 5 to 9 employees,2021,4,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Loudoun County, Virginia",21,,All establishments,All establishments,2021,7,"23,897","5,347",199,"Mining, quarrying, and oil and gas extraction"
+"Loudoun County, Virginia",21,,All establishments,Establishments with 20 to 49 employees,2021,4,N,N,N,"Mining, quarrying, and oil and gas extraction"
+"Loudoun County, Virginia",22,,All establishments,All establishments,2021,8,"11,602","3,292",127,Utilities
+"Loudoun County, Virginia",22,,All establishments,Establishments with less than 5 employees,2021,4,N,N,N,Utilities
+"Loudoun County, Virginia",23,,All establishments,All establishments,2021,911,"1,076,546","247,947","14,266",Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with less than 5 employees,2021,530,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 5 to 9 employees,2021,141,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 10 to 19 employees,2021,91,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 20 to 49 employees,2021,94,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 50 to 99 employees,2021,32,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 100 to 249 employees,2021,17,N,N,N,Construction
+"Loudoun County, Virginia",23,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Construction
+"Loudoun County, Virginia",31-33,,All establishments,All establishments,2021,203,"498,233","118,889","6,223",Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with less than 5 employees,2021,83,N,N,N,Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with 5 to 9 employees,2021,40,N,N,N,Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with 10 to 19 employees,2021,33,N,N,N,Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with 20 to 49 employees,2021,28,N,N,N,Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with 50 to 99 employees,2021,9,N,N,N,Manufacturing
+"Loudoun County, Virginia",31-33,,All establishments,Establishments with 100 to 249 employees,2021,7,N,N,N,Manufacturing
+"Loudoun County, Virginia",42,,All establishments,All establishments,2021,298,"267,624","67,381","3,308",Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with less than 5 employees,2021,162,N,N,N,Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with 5 to 9 employees,2021,47,N,N,N,Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with 10 to 19 employees,2021,53,N,N,N,Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with 20 to 49 employees,2021,21,N,N,N,Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with 50 to 99 employees,2021,9,N,N,N,Wholesale trade
+"Loudoun County, Virginia",42,,All establishments,Establishments with 100 to 249 employees,2021,6,N,N,N,Wholesale trade
+"Loudoun County, Virginia",44-45,,All establishments,All establishments,2021,"1,021","685,927","148,100","18,656",Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with less than 5 employees,2021,437,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 5 to 9 employees,2021,206,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 10 to 19 employees,2021,174,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 20 to 49 employees,2021,125,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 50 to 99 employees,2021,42,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 100 to 249 employees,2021,27,N,N,N,Retail trade
+"Loudoun County, Virginia",44-45,,All establishments,Establishments with 250 to 499 employees,2021,10,N,N,N,Retail trade
+"Loudoun County, Virginia",48-49,,All establishments,All establishments,2021,372,"644,773","145,958","13,302",Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with less than 5 employees,2021,205,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 5 to 9 employees,2021,48,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 10 to 19 employees,2021,41,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 20 to 49 employees,2021,39,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 50 to 99 employees,2021,23,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 100 to 249 employees,2021,8,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",48-49,,All establishments,Establishments with 500 to 999 employees,2021,4,N,N,N,Transportation and warehousing
+"Loudoun County, Virginia",51,,All establishments,All establishments,2021,326,"1,256,890","410,171","9,296",Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with less than 5 employees,2021,182,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 5 to 9 employees,2021,45,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 10 to 19 employees,2021,34,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 20 to 49 employees,2021,28,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 50 to 99 employees,2021,18,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 100 to 249 employees,2021,9,N,N,N,Information
+"Loudoun County, Virginia",51,,All establishments,Establishments with 250 to 499 employees,2021,7,N,N,N,Information
+"Loudoun County, Virginia",52,,All establishments,All establishments,2021,406,"394,186","89,074","3,552",Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with less than 5 employees,2021,271,N,N,N,Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with 5 to 9 employees,2021,74,N,N,N,Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with 10 to 19 employees,2021,35,N,N,N,Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with 20 to 49 employees,2021,15,N,N,N,Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with 50 to 99 employees,2021,5,N,N,N,Finance and insurance
+"Loudoun County, Virginia",52,,All establishments,Establishments with 250 to 499 employees,2021,4,N,N,N,Finance and insurance
+"Loudoun County, Virginia",53,,All establishments,All establishments,2021,554,"121,741","26,902","1,621",Real estate and rental and leasing
+"Loudoun County, Virginia",53,,All establishments,Establishments with less than 5 employees,2021,483,N,N,N,Real estate and rental and leasing
+"Loudoun County, Virginia",53,,All establishments,Establishments with 5 to 9 employees,2021,35,N,N,N,Real estate and rental and leasing
+"Loudoun County, Virginia",53,,All establishments,Establishments with 10 to 19 employees,2021,24,N,N,N,Real estate and rental and leasing
+"Loudoun County, Virginia",53,,All establishments,Establishments with 20 to 49 employees,2021,10,N,N,N,Real estate and rental and leasing
+"Loudoun County, Virginia",54,,All establishments,All establishments,2021,"3,584","3,360,660","777,291","35,121","Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with less than 5 employees,2021,"2,796",N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 5 to 9 employees,2021,302,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 10 to 19 employees,2021,213,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 20 to 49 employees,2021,172,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 50 to 99 employees,2021,55,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 100 to 249 employees,2021,30,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 250 to 499 employees,2021,7,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",54,,All establishments,Establishments with 500 to 999 employees,2021,7,N,N,N,"Professional, scientific, and technical services"
+"Loudoun County, Virginia",55,,All establishments,All establishments,2021,50,"370,025","93,240","4,351",Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with less than 5 employees,2021,20,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with 5 to 9 employees,2021,7,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with 10 to 19 employees,2021,4,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with 20 to 49 employees,2021,4,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with 50 to 99 employees,2021,4,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",55,,All establishments,Establishments with 100 to 249 employees,2021,9,N,N,N,Management of companies and enterprises
+"Loudoun County, Virginia",56,,All establishments,All establishments,2021,607,"673,219","129,451","11,819",Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with less than 5 employees,2021,333,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 5 to 9 employees,2021,86,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 10 to 19 employees,2021,63,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 20 to 49 employees,2021,80,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 50 to 99 employees,2021,30,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 100 to 249 employees,2021,9,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",56,,All establishments,Establishments with 250 to 499 employees,2021,4,N,N,N,Administrative and support and waste management and remediation services
+"Loudoun County, Virginia",61,,All establishments,All establishments,2021,262,"90,364","20,293","2,750",Educational services
+"Loudoun County, Virginia",61,,All establishments,Establishments with less than 5 employees,2021,134,N,N,N,Educational services
+"Loudoun County, Virginia",61,,All establishments,Establishments with 5 to 9 employees,2021,46,N,N,N,Educational services
+"Loudoun County, Virginia",61,,All establishments,Establishments with 10 to 19 employees,2021,46,N,N,N,Educational services
+"Loudoun County, Virginia",61,,All establishments,Establishments with 20 to 49 employees,2021,29,N,N,N,Educational services
+"Loudoun County, Virginia",61,,All establishments,Establishments with 50 to 99 employees,2021,5,N,N,N,Educational services
+"Loudoun County, Virginia",62,,All establishments,All establishments,2021,"1,126","853,083","196,661","15,456",Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with less than 5 employees,2021,582,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 5 to 9 employees,2021,223,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 10 to 19 employees,2021,167,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 20 to 49 employees,2021,110,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 50 to 99 employees,2021,28,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 100 to 249 employees,2021,10,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",62,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Health care and social assistance
+"Loudoun County, Virginia",71,,All establishments,All establishments,2021,188,"298,276","49,439","2,945","Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with less than 5 employees,2021,98,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with 5 to 9 employees,2021,37,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with 10 to 19 employees,2021,22,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with 20 to 49 employees,2021,17,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with 50 to 99 employees,2021,7,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",71,,All establishments,Establishments with 100 to 249 employees,2021,6,N,N,N,"Arts, entertainment, and recreation"
+"Loudoun County, Virginia",72,,All establishments,All establishments,2021,802,"381,090","79,138","14,685",Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with less than 5 employees,2021,227,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with 5 to 9 employees,2021,141,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with 10 to 19 employees,2021,191,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with 20 to 49 employees,2021,189,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with 50 to 99 employees,2021,42,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",72,,All establishments,Establishments with 100 to 249 employees,2021,10,N,N,N,Accommodation and food services
+"Loudoun County, Virginia",81,,All establishments,All establishments,2021,949,"365,226","80,500","6,802",Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with less than 5 employees,2021,611,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with 5 to 9 employees,2021,152,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with 10 to 19 employees,2021,119,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with 20 to 49 employees,2021,53,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with 50 to 99 employees,2021,7,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",81,,All establishments,Establishments with 100 to 249 employees,2021,5,N,N,N,Other services (except public administration)
+"Loudoun County, Virginia",99,,All establishments,All establishments,2021,19,639,60,24,Industries not classified
+"Loudoun County, Virginia",99,,All establishments,Establishments with less than 5 employees,2021,17,N,N,N,Industries not classified

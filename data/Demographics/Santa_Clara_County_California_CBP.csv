@@ -1,0 +1,547 @@
+Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+"Santa Clara County, California",00,Total for all sectors,All establishments,All establishments,2019,"49,035","148,407,685","37,265,751","1,102,219",
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2019,"26,400",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2019,"8,585",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2019,"6,186",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2019,"4,653",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2019,"1,637",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2019,991,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2019,340,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2019,134,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2019,109,N,N,N,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,26,"10,927","2,548",226,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2019,17,N,N,N,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2019,5,N,N,N,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,12,"15,299","3,590",134,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2019,6,N,N,N,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 5 to 9 employees,2019,3,N,N,N,
+"Santa Clara County, California",22,Utilities,All establishments,All establishments,2019,25,"272,318","72,553","1,978",
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with less than 5 employees,2019,13,N,N,N,
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with 10 to 19 employees,2019,3,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,All establishments,2019,"3,674","4,790,361","1,120,671","52,400",
+"Santa Clara County, California",23,Construction,All establishments,Establishments with less than 5 employees,2019,"2,220",N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 5 to 9 employees,2019,641,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 10 to 19 employees,2019,375,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 20 to 49 employees,2019,257,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 50 to 99 employees,2019,101,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 100 to 249 employees,2019,51,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 250 to 499 employees,2019,15,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 500 to 999 employees,2019,10,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,"Establishments with 1,000 employees or more",2019,4,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,All establishments,2019,"2,136","10,347,631","2,810,902","85,171",
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2019,866,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2019,367,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2019,348,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2019,277,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2019,137,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2019,78,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2019,39,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2019,12,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,000 employees or more",2019,12,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,All establishments,2019,"2,400","15,197,729","3,813,560","77,096",
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2019,"1,247",N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2019,417,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2019,284,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2019,232,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2019,94,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2019,64,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2019,30,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2019,21,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,000 employees or more",2019,11,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,All establishments,2019,"4,457","3,506,650","903,053","81,928",
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2019,"1,806",N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2019,"1,001",N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2019,713,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2019,551,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2019,240,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2019,120,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2019,22,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 500 to 999 employees,2019,3,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,All establishments,2019,680,"752,324","189,466","13,081",
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2019,387,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2019,87,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2019,71,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2019,83,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2019,22,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2019,22,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2019,5,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2019,3,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,All establishments,2019,"1,933","39,477,385","10,826,325","140,919",
+"Santa Clara County, California",51,Information,All establishments,Establishments with less than 5 employees,2019,865,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 5 to 9 employees,2019,280,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 10 to 19 employees,2019,225,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 20 to 49 employees,2019,205,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 50 to 99 employees,2019,104,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 100 to 249 employees,2019,123,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 250 to 499 employees,2019,66,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 500 to 999 employees,2019,37,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,000 employees or more",2019,28,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,All establishments,2019,"2,390","4,737,616","1,669,784","26,371",
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2019,"1,469",N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2019,452,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2019,279,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2019,119,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2019,36,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2019,28,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2019,4,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,All establishments,2019,"2,971","1,434,864","382,913","16,283",
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2019,"2,256",N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2019,404,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2019,183,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2019,90,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2019,21,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2019,12,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2019,5,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"8,902","23,379,250","5,787,208","145,806",
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2019,"6,083",N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2019,"1,155",N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2019,701,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2019,535,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2019,186,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2019,148,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2019,60,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2019,22,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2019,12,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,All establishments,2019,264,"21,591,016","4,116,274","78,683",
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2019,95,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2019,32,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2019,28,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2019,29,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2019,25,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2019,29,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2019,10,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2019,3,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2019,13,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"2,238","3,211,466","785,138","63,318",
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2019,"1,236",N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2019,336,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2019,226,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2019,203,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2019,106,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2019,81,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2019,34,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2019,9,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2019,7,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,All establishments,2019,"1,139","4,311,402","1,105,919","54,340",
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with less than 5 employees,2019,506,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 5 to 9 employees,2019,205,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 10 to 19 employees,2019,169,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 20 to 49 employees,2019,161,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 50 to 99 employees,2019,66,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 100 to 249 employees,2019,25,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 250 to 499 employees,2019,3,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,All establishments,2019,"5,926","10,415,455","2,520,244","118,072",
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2019,"3,063",N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2019,"1,394",N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2019,786,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2019,412,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2019,133,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2019,98,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2019,23,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2019,4,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2019,13,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,699,"825,877","156,920","19,073",
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2019,332,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2019,95,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2019,99,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2019,99,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2019,33,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2019,28,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2019,9,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,All establishments,2019,"5,217","2,744,659","653,363","95,778",
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2019,"1,376",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2019,968,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2019,"1,316",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2019,"1,203",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2019,281,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2019,60,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2019,10,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 500 to 999 employees,2019,3,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,All establishments,2019,"3,875","1,381,374","344,689","31,472",
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2019,"2,490",N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2019,738,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2019,376,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2019,193,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2019,48,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2019,24,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2019,3,N,N,N,
+"Santa Clara County, California",99,Industries not classified,All establishments,All establishments,2019,71,"4,082",631,90,
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with less than 5 employees,2019,67,N,N,N,
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with 5 to 9 employees,2019,3,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,All establishments,2020,"49,013","165,113,675","40,496,644","1,129,499",
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with less than 5 employees,2020,"26,655",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 5 to 9 employees,2020,"8,518",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 10 to 19 employees,2020,"6,055",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 20 to 49 employees,2020,"4,526",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 50 to 99 employees,2020,"1,647",N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 100 to 249 employees,2020,997,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 250 to 499 employees,2020,350,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,Establishments with 500 to 999 employees,2020,157,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,000 employees or more",2020,108,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,000 to 1,499 employees",2020,43,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 1,500 to 2,499 employees",2020,38,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 2,500 to 4,999 employees",2020,18,N,N,N,
+"Santa Clara County, California",00,Total for all sectors,All establishments,"Establishments with 5,000 employees or more",2020,9,N,N,N,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,24,"12,145","2,999",257,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with less than 5 employees,2020,14,N,N,N,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 5 to 9 employees,2020,4,N,N,N,
+"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,Establishments with 10 to 19 employees,2020,4,N,N,N,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,11,"14,384","3,911",140,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with less than 5 employees,2020,5,N,N,N,
+"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,Establishments with 5 to 9 employees,2020,3,N,N,N,
+"Santa Clara County, California",22,Utilities,All establishments,All establishments,2020,27,"314,749","80,001","2,019",
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with less than 5 employees,2020,13,N,N,N,
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with 10 to 19 employees,2020,3,N,N,N,
+"Santa Clara County, California",22,Utilities,All establishments,Establishments with 20 to 49 employees,2020,4,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,All establishments,2020,"3,724","4,515,338","1,153,510","52,288",
+"Santa Clara County, California",23,Construction,All establishments,Establishments with less than 5 employees,2020,"2,244",N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 5 to 9 employees,2020,659,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 10 to 19 employees,2020,385,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 20 to 49 employees,2020,244,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 50 to 99 employees,2020,114,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 100 to 249 employees,2020,51,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 250 to 499 employees,2020,15,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,Establishments with 500 to 999 employees,2020,9,N,N,N,
+"Santa Clara County, California",23,Construction,All establishments,"Establishments with 1,000 employees or more",2020,3,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,All establishments,2020,"2,069","10,771,607","3,008,903","86,632",
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with less than 5 employees,2020,823,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 5 to 9 employees,2020,385,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 10 to 19 employees,2020,320,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 20 to 49 employees,2020,274,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 50 to 99 employees,2020,129,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 100 to 249 employees,2020,74,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 250 to 499 employees,2020,35,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,Establishments with 500 to 999 employees,2020,17,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,
+"Santa Clara County, California",31-33,Manufacturing,All establishments,"Establishments with 2,500 to 4,999 employees",2020,3,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,All establishments,2020,"2,306","15,723,690","3,888,476","78,661",
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with less than 5 employees,2020,"1,203",N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 5 to 9 employees,2020,387,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 10 to 19 employees,2020,284,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 20 to 49 employees,2020,214,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 50 to 99 employees,2020,95,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 100 to 249 employees,2020,57,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 250 to 499 employees,2020,33,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,Establishments with 500 to 999 employees,2020,20,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,000 to 1,499 employees",2020,5,N,N,N,
+"Santa Clara County, California",42,Wholesale trade,All establishments,"Establishments with 1,500 to 2,499 employees",2020,7,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,All establishments,2020,"4,358","3,536,751","899,679","81,366",
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with less than 5 employees,2020,"1,787",N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 5 to 9 employees,2020,958,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 10 to 19 employees,2020,693,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 20 to 49 employees,2020,547,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 50 to 99 employees,2020,235,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 100 to 249 employees,2020,110,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 250 to 499 employees,2020,23,N,N,N,
+"Santa Clara County, California",44-45,Retail trade,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,All establishments,2020,766,"787,804","210,444","14,741",
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with less than 5 employees,2020,469,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 5 to 9 employees,2020,85,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 10 to 19 employees,2020,86,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 20 to 49 employees,2020,66,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 50 to 99 employees,2020,24,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 100 to 249 employees,2020,25,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,
+"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,All establishments,2020,"1,929","45,723,790","11,952,156","149,287",
+"Santa Clara County, California",51,Information,All establishments,Establishments with less than 5 employees,2020,900,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 5 to 9 employees,2020,260,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 10 to 19 employees,2020,214,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 20 to 49 employees,2020,193,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 50 to 99 employees,2020,97,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 100 to 249 employees,2020,116,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 250 to 499 employees,2020,73,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,Establishments with 500 to 999 employees,2020,47,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,000 employees or more",2020,29,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,000 to 1,499 employees",2020,16,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 1,500 to 2,499 employees",2020,7,N,N,N,
+"Santa Clara County, California",51,Information,All establishments,"Establishments with 2,500 to 4,999 employees",2020,5,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,All establishments,2020,"2,374","5,002,356","1,826,549","27,182",
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with less than 5 employees,2020,"1,473",N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 5 to 9 employees,2020,445,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 10 to 19 employees,2020,254,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 20 to 49 employees,2020,119,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 50 to 99 employees,2020,46,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,
+"Santa Clara County, California",52,Finance and insurance,All establishments,Establishments with 250 to 499 employees,2020,6,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,All establishments,2020,"3,052","1,531,357","415,658","16,429",
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with less than 5 employees,2020,"2,333",N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 5 to 9 employees,2020,420,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 10 to 19 employees,2020,174,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 20 to 49 employees,2020,82,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 100 to 249 employees,2020,9,N,N,N,
+"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,Establishments with 250 to 499 employees,2020,7,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"8,977","26,353,025","6,439,204","154,546",
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with less than 5 employees,2020,"6,117",N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 5 to 9 employees,2020,"1,154",N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 10 to 19 employees,2020,722,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 20 to 49 employees,2020,523,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 50 to 99 employees,2020,190,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 100 to 249 employees,2020,173,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 250 to 499 employees,2020,58,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,Establishments with 500 to 999 employees,2020,27,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,
+"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,"Establishments with 1,500 to 2,499 employees",2020,10,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,All establishments,2020,262,"28,123,341","4,645,433","86,091",
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with less than 5 employees,2020,94,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 5 to 9 employees,2020,31,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 10 to 19 employees,2020,26,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 20 to 49 employees,2020,27,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 50 to 99 employees,2020,27,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 250 to 499 employees,2020,13,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 employees or more",2020,12,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,000 to 1,499 employees",2020,3,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 1,500 to 2,499 employees",2020,4,N,N,N,
+"Santa Clara County, California",55,Management of companies and enterprises,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,272","3,705,481","891,154","59,564",
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with less than 5 employees,2020,"1,254",N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 5 to 9 employees,2020,339,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 10 to 19 employees,2020,235,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 20 to 49 employees,2020,212,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 50 to 99 employees,2020,105,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 100 to 249 employees,2020,84,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 250 to 499 employees,2020,29,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,Establishments with 500 to 999 employees,2020,10,N,N,N,
+"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,"Establishments with 1,000 employees or more",2020,4,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,All establishments,2020,"1,170","4,404,836","1,092,829","57,339",
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with less than 5 employees,2020,536,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 5 to 9 employees,2020,192,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 10 to 19 employees,2020,172,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 20 to 49 employees,2020,156,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 50 to 99 employees,2020,78,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 100 to 249 employees,2020,28,N,N,N,
+"Santa Clara County, California",61,Educational services,All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,All establishments,2020,"6,075","10,579,558","2,768,975","118,836",
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with less than 5 employees,2020,"3,278",N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 5 to 9 employees,2020,"1,359",N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 10 to 19 employees,2020,751,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 20 to 49 employees,2020,410,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 50 to 99 employees,2020,141,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 100 to 249 employees,2020,99,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 250 to 499 employees,2020,21,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,000 employees or more",2020,13,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,000 to 1,499 employees",2020,4,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 1,500 to 2,499 employees",2020,3,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 2,500 to 4,999 employees",2020,3,N,N,N,
+"Santa Clara County, California",62,Health care and social assistance,All establishments,"Establishments with 5,000 employees or more",2020,3,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,719,"717,504","185,313","19,953",
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with less than 5 employees,2020,348,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 5 to 9 employees,2020,90,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 10 to 19 employees,2020,105,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 20 to 49 employees,2020,98,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 50 to 99 employees,2020,36,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 100 to 249 employees,2020,27,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,
+"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,Establishments with 500 to 999 employees,2020,3,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,All establishments,2020,"5,008","1,987,268","662,823","92,647",
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with less than 5 employees,2020,"1,293",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 5 to 9 employees,2020,"1,000",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 10 to 19 employees,2020,"1,237",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 20 to 49 employees,2020,"1,144",N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 50 to 99 employees,2020,252,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 100 to 249 employees,2020,68,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 250 to 499 employees,2020,10,N,N,N,
+"Santa Clara County, California",72,Accommodation and food services,All establishments,Establishments with 500 to 999 employees,2020,4,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,All establishments,2020,"3,805","1,305,694","368,098","31,436",
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with less than 5 employees,2020,"2,389",N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 5 to 9 employees,2020,742,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 10 to 19 employees,2020,389,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 20 to 49 employees,2020,211,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 50 to 99 employees,2020,47,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 100 to 249 employees,2020,20,N,N,N,
+"Santa Clara County, California",81,Other services (except public administration),All establishments,Establishments with 250 to 499 employees,2020,4,N,N,N,
+"Santa Clara County, California",99,Industries not classified,All establishments,All establishments,2020,85,"2,997",529,85,
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with less than 5 employees,2020,82,N,N,N,
+"Santa Clara County, California",99,Industries not classified,All establishments,Establishments with 5 to 9 employees,2020,3,N,N,N,
+"Santa Clara County, California",00,,All establishments,All establishments,2021,"48,749","194,044,418","45,337,999","1,057,178",Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with less than 5 employees,2021,"27,580",N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 5 to 9 employees,2021,"8,453",N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 10 to 19 employees,2021,"5,810",N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 20 to 49 employees,2021,"4,006",N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 50 to 99 employees,2021,"1,463",N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 100 to 249 employees,2021,897,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 250 to 499 employees,2021,315,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,Establishments with 500 to 999 employees,2021,123,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,"Establishments with 1,000 employees or more",2021,102,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,35,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,32,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,"Establishments with 2,500 to 4,999 employees",2021,22,N,N,N,Total for all sectors
+"Santa Clara County, California",00,,All establishments,"Establishments with 5,000 employees or more",2021,13,N,N,N,Total for all sectors
+"Santa Clara County, California",11,,All establishments,All establishments,2021,28,"12,894","2,873",259,"Agriculture, forestry, fishing and hunting"
+"Santa Clara County, California",11,,All establishments,Establishments with less than 5 employees,2021,17,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Santa Clara County, California",11,,All establishments,Establishments with 5 to 9 employees,2021,5,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Santa Clara County, California",11,,All establishments,Establishments with 10 to 19 employees,2021,4,N,N,N,"Agriculture, forestry, fishing and hunting"
+"Santa Clara County, California",21,,All establishments,All establishments,2021,10,"13,724","3,247",124,"Mining, quarrying, and oil and gas extraction"
+"Santa Clara County, California",21,,All establishments,Establishments with less than 5 employees,2021,5,N,N,N,"Mining, quarrying, and oil and gas extraction"
+"Santa Clara County, California",22,,All establishments,All establishments,2021,27,"355,580","86,744","2,322",Utilities
+"Santa Clara County, California",22,,All establishments,Establishments with less than 5 employees,2021,13,N,N,N,Utilities
+"Santa Clara County, California",22,,All establishments,Establishments with 20 to 49 employees,2021,5,N,N,N,Utilities
+"Santa Clara County, California",23,,All establishments,All establishments,2021,"3,809","4,759,869","1,130,084","49,575",Construction
+"Santa Clara County, California",23,,All establishments,Establishments with less than 5 employees,2021,"2,318",N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 5 to 9 employees,2021,674,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 10 to 19 employees,2021,387,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 20 to 49 employees,2021,258,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 50 to 99 employees,2021,103,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 100 to 249 employees,2021,44,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 250 to 499 employees,2021,12,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,Establishments with 500 to 999 employees,2021,10,N,N,N,Construction
+"Santa Clara County, California",23,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,Construction
+"Santa Clara County, California",31-33,,All establishments,All establishments,2021,"2,028","13,738,625","3,822,285","88,625",Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with less than 5 employees,2021,840,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 5 to 9 employees,2021,353,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 10 to 19 employees,2021,322,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 20 to 49 employees,2021,263,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 50 to 99 employees,2021,120,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 100 to 249 employees,2021,69,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 250 to 499 employees,2021,33,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,Establishments with 500 to 999 employees,2021,13,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,"Establishments with 1,000 employees or more",2021,15,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,4,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,6,N,N,N,Manufacturing
+"Santa Clara County, California",31-33,,All establishments,"Establishments with 2,500 to 4,999 employees",2021,5,N,N,N,Manufacturing
+"Santa Clara County, California",42,,All establishments,All establishments,2021,"2,240","15,718,154","3,853,449","69,869",Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with less than 5 employees,2021,"1,212",N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 5 to 9 employees,2021,388,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 10 to 19 employees,2021,257,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 20 to 49 employees,2021,199,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 50 to 99 employees,2021,86,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 100 to 249 employees,2021,53,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 250 to 499 employees,2021,23,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,Establishments with 500 to 999 employees,2021,11,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,"Establishments with 1,000 employees or more",2021,11,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,5,N,N,N,Wholesale trade
+"Santa Clara County, California",42,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,4,N,N,N,Wholesale trade
+"Santa Clara County, California",44-45,,All establishments,All establishments,2021,"4,315","3,801,684","843,532","76,672",Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with less than 5 employees,2021,"1,865",N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 5 to 9 employees,2021,979,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 10 to 19 employees,2021,611,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 20 to 49 employees,2021,517,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 50 to 99 employees,2021,206,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 100 to 249 employees,2021,109,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 250 to 499 employees,2021,24,N,N,N,Retail trade
+"Santa Clara County, California",44-45,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Retail trade
+"Santa Clara County, California",48-49,,All establishments,All establishments,2021,804,"815,470","187,420","14,389",Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with less than 5 employees,2021,497,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 5 to 9 employees,2021,89,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 10 to 19 employees,2021,82,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 20 to 49 employees,2021,73,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 50 to 99 employees,2021,31,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 100 to 249 employees,2021,24,N,N,N,Transportation and warehousing
+"Santa Clara County, California",48-49,,All establishments,Establishments with 250 to 499 employees,2021,6,N,N,N,Transportation and warehousing
+"Santa Clara County, California",51,,All establishments,All establishments,2021,"1,959","54,328,221","13,279,429","143,850",Information
+"Santa Clara County, California",51,,All establishments,Establishments with less than 5 employees,2021,935,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 5 to 9 employees,2021,257,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 10 to 19 employees,2021,230,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 20 to 49 employees,2021,180,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 50 to 99 employees,2021,108,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 100 to 249 employees,2021,113,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 250 to 499 employees,2021,73,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,Establishments with 500 to 999 employees,2021,37,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,"Establishments with 1,000 employees or more",2021,26,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,11,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,9,N,N,N,Information
+"Santa Clara County, California",51,,All establishments,"Establishments with 2,500 to 4,999 employees",2021,4,N,N,N,Information
+"Santa Clara County, California",52,,All establishments,All establishments,2021,"2,394","5,933,498","2,445,104","26,406",Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with less than 5 employees,2021,"1,496",N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 5 to 9 employees,2021,460,N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 10 to 19 employees,2021,238,N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 20 to 49 employees,2021,112,N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 50 to 99 employees,2021,50,N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 100 to 249 employees,2021,31,N,N,N,Finance and insurance
+"Santa Clara County, California",52,,All establishments,Establishments with 250 to 499 employees,2021,5,N,N,N,Finance and insurance
+"Santa Clara County, California",53,,All establishments,All establishments,2021,"3,100","1,585,530","384,646","15,188",Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with less than 5 employees,2021,"2,412",N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 5 to 9 employees,2021,409,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 10 to 19 employees,2021,171,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 20 to 49 employees,2021,74,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 50 to 99 employees,2021,20,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 100 to 249 employees,2021,9,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",53,,All establishments,Establishments with 250 to 499 employees,2021,5,N,N,N,Real estate and rental and leasing
+"Santa Clara County, California",54,,All establishments,All establishments,2021,"8,891","34,511,523","8,089,463","160,339","Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with less than 5 employees,2021,"6,030",N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 5 to 9 employees,2021,"1,182",N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 10 to 19 employees,2021,723,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 20 to 49 employees,2021,496,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 50 to 99 employees,2021,199,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 100 to 249 employees,2021,155,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 250 to 499 employees,2021,63,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,Establishments with 500 to 999 employees,2021,28,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,"Establishments with 1,000 employees or more",2021,15,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,5,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",54,,All establishments,"Establishments with 1,500 to 2,499 employees",2021,6,N,N,N,"Professional, scientific, and technical services"
+"Santa Clara County, California",55,,All establishments,All establishments,2021,256,"33,440,985","5,473,984","80,305",Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with less than 5 employees,2021,99,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 5 to 9 employees,2021,23,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 10 to 19 employees,2021,36,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 20 to 49 employees,2021,28,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 50 to 99 employees,2021,17,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 100 to 249 employees,2021,31,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,Establishments with 250 to 499 employees,2021,12,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,"Establishments with 1,000 employees or more",2021,9,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",55,,All establishments,"Establishments with 5,000 employees or more",2021,4,N,N,N,Management of companies and enterprises
+"Santa Clara County, California",56,,All establishments,All establishments,2021,"2,249","4,501,337","962,191","57,479",Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with less than 5 employees,2021,"1,259",N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 5 to 9 employees,2021,323,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 10 to 19 employees,2021,257,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 20 to 49 employees,2021,187,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 50 to 99 employees,2021,104,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 100 to 249 employees,2021,78,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 250 to 499 employees,2021,30,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,Establishments with 500 to 999 employees,2021,8,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",56,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,Administrative and support and waste management and remediation services
+"Santa Clara County, California",61,,All establishments,All establishments,2021,"1,154","4,610,805","1,124,517","53,186",Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with less than 5 employees,2021,553,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 5 to 9 employees,2021,219,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 10 to 19 employees,2021,159,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 20 to 49 employees,2021,133,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 50 to 99 employees,2021,59,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 100 to 249 employees,2021,22,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Educational services
+"Santa Clara County, California",61,,All establishments,"Establishments with 1,000 employees or more",2021,3,N,N,N,Educational services
+"Santa Clara County, California",62,,All establishments,All establishments,2021,"6,098","11,597,432","2,796,795","115,980",Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with less than 5 employees,2021,"3,388",N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 5 to 9 employees,2021,"1,319",N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 10 to 19 employees,2021,747,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 20 to 49 employees,2021,381,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 50 to 99 employees,2021,134,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 100 to 249 employees,2021,96,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 250 to 499 employees,2021,17,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,Establishments with 500 to 999 employees,2021,3,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,"Establishments with 1,000 employees or more",2021,13,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,"Establishments with 1,000 to 1,499 employees",2021,5,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,"Establishments with 2,500 to 4,999 employees",2021,3,N,N,N,Health care and social assistance
+"Santa Clara County, California",62,,All establishments,"Establishments with 5,000 employees or more",2021,3,N,N,N,Health care and social assistance
+"Santa Clara County, California",71,,All establishments,All establishments,2021,693,"742,295","101,256","9,271","Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with less than 5 employees,2021,386,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 5 to 9 employees,2021,122,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 10 to 19 employees,2021,91,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 20 to 49 employees,2021,55,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 50 to 99 employees,2021,28,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 100 to 249 employees,2021,6,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",71,,All establishments,Establishments with 250 to 499 employees,2021,4,N,N,N,"Arts, entertainment, and recreation"
+"Santa Clara County, California",72,,All establishments,All establishments,2021,"4,933","2,205,550","433,792","68,454",Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with less than 5 employees,2021,"1,628",N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 5 to 9 employees,2021,"1,046",N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 10 to 19 employees,2021,"1,165",N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 20 to 49 employees,2021,901,N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 50 to 99 employees,2021,149,N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 100 to 249 employees,2021,41,N,N,N,Accommodation and food services
+"Santa Clara County, California",72,,All establishments,Establishments with 250 to 499 employees,2021,3,N,N,N,Accommodation and food services
+"Santa Clara County, California",81,,All establishments,All establishments,2021,"3,674","1,364,427","316,435","24,782",Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with less than 5 employees,2021,"2,544",N,N,N,Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with 5 to 9 employees,2021,598,N,N,N,Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with 10 to 19 employees,2021,327,N,N,N,Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with 20 to 49 employees,2021,142,N,N,N,Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with 50 to 99 employees,2021,45,N,N,N,Other services (except public administration)
+"Santa Clara County, California",81,,All establishments,Establishments with 100 to 249 employees,2021,15,N,N,N,Other services (except public administration)
+"Santa Clara County, California",99,,All establishments,All establishments,2021,87,"6,815",753,103,Industries not classified
+"Santa Clara County, California",99,,All establishments,Establishments with less than 5 employees,2021,83,N,N,N,Industries not classified
+"Santa Clara County, California",99,,All establishments,Establishments with 5 to 9 employees,2021,4,N,N,N,Industries not classified
