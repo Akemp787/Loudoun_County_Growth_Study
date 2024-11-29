@@ -1,0 +1,446 @@
+,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+0,"Dallas County, Texas",0,Total for all sectors,All establishments,All establishments,2019,"67,311","99,304,828","26,327,259","1,534,430",
+10,"Dallas County, Texas",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,17,"2,676",665,70,
+13,"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,354,"706,258","243,491","4,730",
+20,"Dallas County, Texas",22,Utilities,All establishments,All establishments,2019,92,"714,881","234,608","5,034",
+28,"Dallas County, Texas",23,Construction,All establishments,All establishments,2019,"4,375","5,999,845","1,558,602","85,170",
+38,"Dallas County, Texas",31-33,Manufacturing,All establishments,All establishments,2019,"2,218","6,557,905","1,816,348","100,039",
+48,"Dallas County, Texas",42,Wholesale trade,All establishments,All establishments,2019,"4,359","6,593,752","1,668,833","90,213",
+57,"Dallas County, Texas",44-45,Retail trade,All establishments,All establishments,2019,"7,649","4,273,463","1,074,619","129,023",
+66,"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,All establishments,2019,"1,959","8,247,444","2,152,997","125,473",
+76,"Dallas County, Texas",51,Information,All establishments,All establishments,2019,"1,568","6,747,084","2,131,696","64,805",
+86,"Dallas County, Texas",52,Finance and insurance,All establishments,All establishments,2019,"5,132","10,413,659","3,209,814","99,658",
+96,"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,All establishments,2019,"4,160","3,012,891","792,100","41,784",
+105,"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"9,881","14,184,237","3,324,242","141,211",
+115,"Dallas County, Texas",55,Management of companies and enterprises,All establishments,All establishments,2019,829,"8,064,650","2,437,136","74,475",
+125,"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"3,795","5,863,716","1,376,409","143,391",
+135,"Dallas County, Texas",61,Educational services,All establishments,All establishments,2019,854,"1,451,484","343,188","31,976",
+145,"Dallas County, Texas",62,Health care and social assistance,All establishments,All establishments,2019,"7,803","10,394,953","2,466,166","184,046",
+155,"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,851,"663,312","150,372","19,220",
+163,"Dallas County, Texas",72,Accommodation and food services,All establishments,All establishments,2019,"6,209","3,098,108","739,777","139,833",
+172,"Dallas County, Texas",81,Other services (except public administration),All establishments,All establishments,2019,"5,128","2,310,175","605,374","54,158",
+181,"Dallas County, Texas",99,Industries not classified,All establishments,All establishments,2019,78,"4,335",822,121,
+184,"Dallas County, Texas",0,Total for all sectors,All establishments,All establishments,2020,"68,180","102,251,445","27,978,191","1,563,934",
+198,"Dallas County, Texas",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,19,"2,538",595,59,
+200,"Dallas County, Texas",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,322,"551,258","214,674","3,880",
+207,"Dallas County, Texas",22,Utilities,All establishments,All establishments,2020,88,"753,684","246,993","5,085",
+215,"Dallas County, Texas",23,Construction,All establishments,All establishments,2020,"4,449","5,967,128","1,591,184","89,581",
+226,"Dallas County, Texas",31-33,Manufacturing,All establishments,All establishments,2020,"2,211","7,268,406","2,162,988","104,206",
+237,"Dallas County, Texas",42,Wholesale trade,All establishments,All establishments,2020,"4,315","6,335,522","1,639,704","87,919",
+246,"Dallas County, Texas",44-45,Retail trade,All establishments,All establishments,2020,"7,743","4,320,514","1,101,962","130,786",
+257,"Dallas County, Texas",48-49,Transportation and warehousing,All establishments,All establishments,2020,"2,089","8,564,688","2,378,241","135,039",
+271,"Dallas County, Texas",51,Information,All establishments,All establishments,2020,"1,604","7,040,173","2,173,854","63,955",
+282,"Dallas County, Texas",52,Finance and insurance,All establishments,All establishments,2020,"5,159","11,760,789","3,466,840","105,568",
+294,"Dallas County, Texas",53,Real estate and rental and leasing,All establishments,All establishments,2020,"4,236","3,086,286","868,639","43,368",
+303,"Dallas County, Texas",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"10,093","15,411,211","3,719,130","144,365",
+315,"Dallas County, Texas",55,Management of companies and enterprises,All establishments,All establishments,2020,835,"8,203,732","2,430,799","71,792",
+327,"Dallas County, Texas",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"3,837","5,598,199","1,449,841","146,525",
+338,"Dallas County, Texas",61,Educational services,All establishments,All establishments,2020,844,"1,523,264","373,989","33,367",
+348,"Dallas County, Texas",62,Health care and social assistance,All establishments,All establishments,2020,"7,861","10,404,454","2,572,406","184,652",
+362,"Dallas County, Texas",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,837,"576,589","156,399","18,950",
+370,"Dallas County, Texas",72,Accommodation and food services,All establishments,All establishments,2020,"6,263","2,530,631","769,586","140,141",
+379,"Dallas County, Texas",81,Other services (except public administration),All establishments,All establishments,2020,"5,281","2,347,450","659,209","54,541",
+388,"Dallas County, Texas",99,Industries not classified,All establishments,All establishments,2020,94,"4,929","1,158",155,
+391,"Dallas County, Texas",0,,All establishments,All establishments,2021,"69,959","110,554,872","27,969,774","1,506,838",Total for all sectors
+405,"Dallas County, Texas",11,,All establishments,All establishments,2021,22,"3,037",787,74,"Agriculture, forestry, fishing and hunting"
+409,"Dallas County, Texas",21,,All establishments,All establishments,2021,300,"627,329","164,171","3,628","Mining, quarrying, and oil and gas extraction"
+417,"Dallas County, Texas",22,,All establishments,All establishments,2021,91,"821,727","269,058","4,967",Utilities
+425,"Dallas County, Texas",23,,All establishments,All establishments,2021,"4,589","6,233,802","1,566,242","84,370",Construction
+436,"Dallas County, Texas",31-33,,All establishments,All establishments,2021,"2,197","7,431,312","2,156,256","102,992",Manufacturing
+447,"Dallas County, Texas",42,,All establishments,All establishments,2021,"4,351","6,682,817","1,580,928","84,101",Wholesale trade
+456,"Dallas County, Texas",44-45,,All establishments,All establishments,2021,"7,804","4,914,301","1,119,539","128,476",Retail trade
+467,"Dallas County, Texas",48-49,,All establishments,All establishments,2021,"2,363","9,001,015","2,213,971","135,786",Transportation and warehousing
+481,"Dallas County, Texas",51,,All establishments,All establishments,2021,"1,627","7,661,135","2,208,101","63,193",Information
+492,"Dallas County, Texas",52,,All establishments,All establishments,2021,"5,227","13,154,118","3,908,909","108,425",Finance and insurance
+504,"Dallas County, Texas",53,,All establishments,All establishments,2021,"4,512","3,549,062","925,563","42,766",Real estate and rental and leasing
+513,"Dallas County, Texas",54,,All establishments,All establishments,2021,"10,476","16,669,568","3,660,032","142,004","Professional, scientific, and technical services"
+525,"Dallas County, Texas",55,,All establishments,All establishments,2021,807,"8,598,450","2,411,452","70,611",Management of companies and enterprises
+536,"Dallas County, Texas",56,,All establishments,All establishments,2021,"3,947","6,285,432","1,396,721","141,160",Administrative and support and waste management and remediation services
+548,"Dallas County, Texas",61,,All establishments,All establishments,2021,868,"1,605,345","371,275","30,920",Educational services
+558,"Dallas County, Texas",62,,All establishments,All establishments,2021,"8,050","11,177,463","2,637,984","182,912",Health care and social assistance
+572,"Dallas County, Texas",71,,All establishments,All establishments,2021,875,"617,180","134,396","13,965","Arts, entertainment, and recreation"
+580,"Dallas County, Texas",72,,All establishments,All establishments,2021,"6,318","3,012,230","625,120","116,913",Accommodation and food services
+589,"Dallas County, Texas",81,,All establishments,All establishments,2021,"5,440","2,498,964","616,581","49,351",Other services (except public administration)
+598,"Dallas County, Texas",99,,All establishments,All establishments,2021,95,"10,585","2,688",224,Industries not classified
+602,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+603,"Davidson County, Tennessee",0,Total for all sectors,All establishments,All establishments,2019,"20,293","27,419,532","6,797,708","464,535",
+613,"Davidson County, Tennessee",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,7,691,139,15,
+615,"Davidson County, Tennessee",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,8,"10,733","2,586",154,
+618,"Davidson County, Tennessee",22,Utilities,All establishments,All establishments,2019,11,"22,001","6,866",258,
+621,"Davidson County, Tennessee",23,Construction,All establishments,All establishments,2019,"1,256","1,511,627","333,967","23,485",
+629,"Davidson County, Tennessee",31-33,Manufacturing,All establishments,All establishments,2019,572,"1,078,101","263,819","20,510",
+638,"Davidson County, Tennessee",42,Wholesale trade,All establishments,All establishments,2019,"1,074","1,652,709","426,574","23,345",
+647,"Davidson County, Tennessee",44-45,Retail trade,All establishments,All establishments,2019,"2,592","1,135,802","267,622","36,389",
+655,"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,All establishments,2019,539,"1,231,556","302,142","26,302",
+665,"Davidson County, Tennessee",51,Information,All establishments,All establishments,2019,686,"1,073,738","288,885","13,419",
+674,"Davidson County, Tennessee",52,Finance and insurance,All establishments,All establishments,2019,"1,292","2,533,349","787,577","26,143",
+684,"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,All establishments,2019,"1,177","534,187","125,502","8,480",
+691,"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"2,165","2,549,944","575,169","27,850",
+699,"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,All establishments,2019,251,"2,798,286","717,311","23,958",
+709,"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"1,160","1,603,674","432,352","37,444",
+719,"Davidson County, Tennessee",61,Educational services,All establishments,All establishments,2019,284,"1,179,010","283,965","26,248",
+728,"Davidson County, Tennessee",62,Health care and social assistance,All establishments,All establishments,2019,"2,068","5,241,587","1,237,227","78,757",
+738,"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,928,"1,069,689","238,292","12,536",
+746,"Davidson County, Tennessee",72,Accommodation and food services,All establishments,All establishments,2019,"2,216","1,434,239","325,494","58,277",
+754,"Davidson County, Tennessee",81,Other services (except public administration),All establishments,All establishments,2019,"1,985","756,798","181,674","20,926",
+762,"Davidson County, Tennessee",99,Industries not classified,All establishments,All establishments,2019,22,"1,811",545,39,
+764,"Davidson County, Tennessee",0,Total for all sectors,All establishments,All establishments,2020,"20,512","26,899,504","7,042,439","470,435",
+777,"Davidson County, Tennessee",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,6,766,205,19,
+779,"Davidson County, Tennessee",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,9,"11,971","2,865",163,
+781,"Davidson County, Tennessee",22,Utilities,All establishments,All establishments,2020,11,"21,576","6,738",251,
+784,"Davidson County, Tennessee",23,Construction,All establishments,All establishments,2020,"1,303","1,549,610","351,081","24,366",
+792,"Davidson County, Tennessee",31-33,Manufacturing,All establishments,All establishments,2020,559,"1,080,540","268,838","20,296",
+800,"Davidson County, Tennessee",42,Wholesale trade,All establishments,All establishments,2020,"1,061","1,628,830","421,341","22,583",
+808,"Davidson County, Tennessee",44-45,Retail trade,All establishments,All establishments,2020,"2,583","1,174,975","283,274","37,368",
+816,"Davidson County, Tennessee",48-49,Transportation and warehousing,All establishments,All establishments,2020,555,"1,238,341","315,172","28,302",
+826,"Davidson County, Tennessee",51,Information,All establishments,All establishments,2020,686,"1,179,785","327,221","14,175",
+835,"Davidson County, Tennessee",52,Finance and insurance,All establishments,All establishments,2020,"1,283","2,579,826","760,020","24,901",
+844,"Davidson County, Tennessee",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,181","549,769","141,538","8,829",
+851,"Davidson County, Tennessee",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"2,209","2,511,436","603,385","27,606",
+859,"Davidson County, Tennessee",55,Management of companies and enterprises,All establishments,All establishments,2020,241,"2,321,152","658,036","23,339",
+869,"Davidson County, Tennessee",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,171","1,533,949","448,506","38,124",
+879,"Davidson County, Tennessee",61,Educational services,All establishments,All establishments,2020,303,"1,197,282","301,391","24,976",
+888,"Davidson County, Tennessee",62,Health care and social assistance,All establishments,All establishments,2020,"2,149","5,678,824","1,335,086","83,212",
+899,"Davidson County, Tennessee",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,939,"843,901","282,381","12,305",
+907,"Davidson County, Tennessee",72,Accommodation and food services,All establishments,All establishments,2020,"2,264","1,069,237","348,515","58,884",
+915,"Davidson County, Tennessee",81,Other services (except public administration),All establishments,All establishments,2020,"1,966","722,859","185,799","20,656",
+923,"Davidson County, Tennessee",99,Industries not classified,All establishments,All establishments,2020,33,"4,875","1,047",80,
+925,"Davidson County, Tennessee",0,,All establishments,All establishments,2021,"21,052","29,959,118","7,012,604","445,200",Total for all sectors
+937,"Davidson County, Tennessee",11,,All establishments,All establishments,2021,6,915,170,14,"Agriculture, forestry, fishing and hunting"
+939,"Davidson County, Tennessee",21,,All establishments,All establishments,2021,6,"7,976","1,689",100,"Mining, quarrying, and oil and gas extraction"
+941,"Davidson County, Tennessee",22,,All establishments,All establishments,2021,13,"22,048","6,489",259,Utilities
+945,"Davidson County, Tennessee",23,,All establishments,All establishments,2021,"1,370","1,661,570","354,741","24,427",Construction
+953,"Davidson County, Tennessee",31-33,,All establishments,All establishments,2021,549,"1,191,256","275,936","20,704",Manufacturing
+962,"Davidson County, Tennessee",42,,All establishments,All establishments,2021,"1,050","1,638,240","411,259","20,470",Wholesale trade
+970,"Davidson County, Tennessee",44-45,,All establishments,All establishments,2021,"2,610","1,371,506","303,487","38,673",Retail trade
+978,"Davidson County, Tennessee",48-49,,All establishments,All establishments,2021,624,"1,348,843","300,806","27,135",Transportation and warehousing
+988,"Davidson County, Tennessee",51,,All establishments,All establishments,2021,699,"1,091,791","265,236","11,255",Information
+996,"Davidson County, Tennessee",52,,All establishments,All establishments,2021,"1,299","2,975,172","774,550","25,384",Finance and insurance
+1006,"Davidson County, Tennessee",53,,All establishments,All establishments,2021,"1,236","583,269","135,457","8,455",Real estate and rental and leasing
+1013,"Davidson County, Tennessee",54,,All establishments,All establishments,2021,"2,255","2,660,924","607,030","27,105","Professional, scientific, and technical services"
+1021,"Davidson County, Tennessee",55,,All establishments,All establishments,2021,245,"2,866,573","770,014","22,905",Management of companies and enterprises
+1030,"Davidson County, Tennessee",56,,All establishments,All establishments,2021,"1,203","1,697,839","400,889","33,820",Administrative and support and waste management and remediation services
+1041,"Davidson County, Tennessee",61,,All establishments,All establishments,2021,303,"1,266,639","299,275","23,372",Educational services
+1050,"Davidson County, Tennessee",62,,All establishments,All establishments,2021,"2,276","6,444,759","1,454,286","89,233",Health care and social assistance
+1060,"Davidson County, Tennessee",71,,All establishments,All establishments,2021,974,"1,035,429","226,231","9,450","Arts, entertainment, and recreation"
+1067,"Davidson County, Tennessee",72,,All establishments,All establishments,2021,"2,349","1,325,947","250,005","44,563",Accommodation and food services
+1074,"Davidson County, Tennessee",81,,All establishments,All establishments,2021,"1,962","765,694","174,563","17,842",Other services (except public administration)
+1082,"Davidson County, Tennessee",99,,All establishments,All establishments,2021,23,"2,728",491,34,Industries not classified
+1084,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+1085,"Fairfax County, Virginia",0,Total for all sectors,All establishments,All establishments,2019,"31,619","55,389,346","14,447,518","656,234",
+1095,"Fairfax County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,6,"15,793","3,324",163,
+1097,"Fairfax County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,5,"8,696","2,468",81,
+1098,"Fairfax County, Virginia",22,Utilities,All establishments,All establishments,2019,16,"160,002","46,689","1,375",
+1102,"Fairfax County, Virginia",23,Construction,All establishments,All establishments,2019,"2,390","2,253,160","535,909","28,896",
+1111,"Fairfax County, Virginia",31-33,Manufacturing,All establishments,All establishments,2019,341,"356,684","84,535","5,804",
+1118,"Fairfax County, Virginia",42,Wholesale trade,All establishments,All establishments,2019,810,"1,916,389","468,884","15,106",
+1127,"Fairfax County, Virginia",44-45,Retail trade,All establishments,All establishments,2019,"2,628","1,782,575","420,056","51,262",
+1136,"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2019,428,"423,770","105,842","8,696",
+1144,"Fairfax County, Virginia",51,Information,All establishments,All establishments,2019,898,"5,703,335","1,674,451","40,137",
+1154,"Fairfax County, Virginia",52,Finance and insurance,All establishments,All establishments,2019,"1,659","4,406,011","1,442,312","31,021",
+1164,"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2019,"1,710","936,599","244,045","11,348",
+1172,"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"8,784","24,345,467","6,137,831","218,675",
+1182,"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2019,311,"2,509,093","734,019","18,949",
+1191,"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"1,818","3,418,446","821,559","62,234",
+1201,"Fairfax County, Virginia",61,Educational services,All establishments,All establishments,2019,684,"743,719","187,716","13,745",
+1210,"Fairfax County, Virginia",62,Health care and social assistance,All establishments,All establishments,2019,"3,470","3,796,073","893,582","66,535",
+1220,"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,413,"340,486","94,353","10,637",
+1227,"Fairfax County, Virginia",72,Accommodation and food services,All establishments,All establishments,2019,"2,498","1,095,064","259,182","47,190",
+1235,"Fairfax County, Virginia",81,Other services (except public administration),All establishments,All establishments,2019,"2,707","1,176,799","290,597","24,341",
+1242,"Fairfax County, Virginia",99,Industries not classified,All establishments,All establishments,2019,43,"1,185",164,39,
+1244,"Fairfax County, Virginia",0,Total for all sectors,All establishments,All establishments,2020,"31,769","57,393,417","15,250,175","672,100",
+1257,"Fairfax County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,5,"21,085","5,326",220,
+1259,"Fairfax County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,5,"7,020","1,899",70,
+1261,"Fairfax County, Virginia",22,Utilities,All establishments,All establishments,2020,19,"167,271","49,083","1,364",
+1264,"Fairfax County, Virginia",23,Construction,All establishments,All establishments,2020,"2,384","2,265,823","606,178","30,826",
+1273,"Fairfax County, Virginia",31-33,Manufacturing,All establishments,All establishments,2020,349,"358,216","91,057","5,874",
+1280,"Fairfax County, Virginia",42,Wholesale trade,All establishments,All establishments,2020,798,"2,041,122","463,408","15,248",
+1289,"Fairfax County, Virginia",44-45,Retail trade,All establishments,All establishments,2020,"2,577","1,715,096","428,172","52,277",
+1298,"Fairfax County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2020,438,"483,792","112,865","10,046",
+1306,"Fairfax County, Virginia",51,Information,All establishments,All establishments,2020,868,"5,961,188","1,690,059","38,920",
+1317,"Fairfax County, Virginia",52,Finance and insurance,All establishments,All establishments,2020,"1,685","4,667,264","1,493,208","31,245",
+1327,"Fairfax County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,758","980,008","273,197","11,712",
+1335,"Fairfax County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"8,861","25,659,466","6,507,110","228,318",
+1348,"Fairfax County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2020,355,"2,761,085","858,638","21,034",
+1357,"Fairfax County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,808","3,467,040","863,169","63,936",
+1367,"Fairfax County, Virginia",61,Educational services,All establishments,All establishments,2020,702,"753,148","185,061","13,133",
+1375,"Fairfax County, Virginia",62,Health care and social assistance,All establishments,All establishments,2020,"3,500","3,918,863","976,477","65,883",
+1386,"Fairfax County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,409,"233,231","85,586","11,188",
+1393,"Fairfax County, Virginia",72,Accommodation and food services,All establishments,All establishments,2020,"2,418","854,596","263,125","46,807",
+1401,"Fairfax County, Virginia",81,Other services (except public administration),All establishments,All establishments,2020,"2,759","1,076,061","296,116","23,941",
+1408,"Fairfax County, Virginia",99,Industries not classified,All establishments,All establishments,2020,71,"2,042",441,58,
+1410,"Fairfax County, Virginia",0,,All establishments,All establishments,2021,"31,808","62,668,153","15,468,556","647,247",Total for all sectors
+1424,"Fairfax County, Virginia",11,,All establishments,All establishments,2021,6,"28,270","5,594",210,"Agriculture, forestry, fishing and hunting"
+1426,"Fairfax County, Virginia",21,,All establishments,All establishments,2021,5,"6,034","1,373",68,"Mining, quarrying, and oil and gas extraction"
+1428,"Fairfax County, Virginia",22,,All establishments,All establishments,2021,18,"178,527","53,018","1,707",Utilities
+1431,"Fairfax County, Virginia",23,,All establishments,All establishments,2021,"2,444","2,531,175","604,486","30,644",Construction
+1440,"Fairfax County, Virginia",31-33,,All establishments,All establishments,2021,349,"395,255","93,863","5,871",Manufacturing
+1447,"Fairfax County, Virginia",42,,All establishments,All establishments,2021,808,"2,401,734","534,255","16,208",Wholesale trade
+1456,"Fairfax County, Virginia",44-45,,All establishments,All establishments,2021,"2,507","1,854,594","410,402","47,722",Retail trade
+1465,"Fairfax County, Virginia",48-49,,All establishments,All establishments,2021,446,"492,618","111,688","9,843",Transportation and warehousing
+1473,"Fairfax County, Virginia",51,,All establishments,All establishments,2021,873,"6,822,004","1,819,538","38,204",Information
+1484,"Fairfax County, Virginia",52,,All establishments,All establishments,2021,"1,626","4,984,931","1,541,812","32,104",Finance and insurance
+1495,"Fairfax County, Virginia",53,,All establishments,All establishments,2021,"1,808","996,688","243,553","10,720",Real estate and rental and leasing
+1503,"Fairfax County, Virginia",54,,All establishments,All establishments,2021,"8,767","28,296,684","6,831,378","233,048","Professional, scientific, and technical services"
+1515,"Fairfax County, Virginia",55,,All establishments,All establishments,2021,321,"2,737,115","730,814","22,232",Management of companies and enterprises
+1525,"Fairfax County, Virginia",56,,All establishments,All establishments,2021,"1,859","3,406,425","778,097","56,067",Administrative and support and waste management and remediation services
+1535,"Fairfax County, Virginia",61,,All establishments,All establishments,2021,692,"804,275","166,942","12,034",Educational services
+1543,"Fairfax County, Virginia",62,,All establishments,All establishments,2021,"3,606","4,418,937","1,035,508","66,019",Health care and social assistance
+1554,"Fairfax County, Virginia",71,,All establishments,All establishments,2021,429,"184,643","37,970","6,067","Arts, entertainment, and recreation"
+1561,"Fairfax County, Virginia",72,,All establishments,All establishments,2021,"2,440","1,001,865","206,608","37,850",Accommodation and food services
+1568,"Fairfax County, Virginia",81,,All establishments,All establishments,2021,"2,764","1,124,546","261,225","20,580",Other services (except public administration)
+1576,"Fairfax County, Virginia",99,,All establishments,All establishments,2021,40,"1,833",432,49,Industries not classified
+1578,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+1579,"Loudoun County, Virginia",0,Total for all sectors,All establishments,All establishments,2019,"11,028","10,312,852","2,552,811","168,351",
+1589,"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,25,"2,036",501,69,
+1592,"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,6,"25,393","12,416",593,
+1594,"Loudoun County, Virginia",22,Utilities,All establishments,All establishments,2019,5,"8,361","2,267",95,
+1595,"Loudoun County, Virginia",23,Construction,All establishments,All establishments,2019,883,"966,621","226,715","14,225",
+1603,"Loudoun County, Virginia",31-33,Manufacturing,All establishments,All establishments,2019,194,"496,644","121,784","5,729",
+1610,"Loudoun County, Virginia",42,Wholesale trade,All establishments,All establishments,2019,286,"257,407","67,053","3,372",
+1617,"Loudoun County, Virginia",44-45,Retail trade,All establishments,All establishments,2019,"1,053","592,876","144,128","19,356",
+1625,"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2019,340,"662,149","170,984","13,563",
+1634,"Loudoun County, Virginia",51,Information,All establishments,All establishments,2019,312,"1,222,338","404,154","10,026",
+1642,"Loudoun County, Virginia",52,Finance and insurance,All establishments,All establishments,2019,398,"340,235","82,061","3,506",
+1648,"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2019,485,"103,400","23,998","1,731",
+1654,"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"3,216","2,793,340","658,042","31,048",
+1662,"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2019,58,"320,347","81,494","3,655",
+1669,"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,605,"653,641","151,137","14,794",
+1677,"Loudoun County, Virginia",61,Educational services,All establishments,All establishments,2019,247,"85,474","21,183","2,953",
+1683,"Loudoun County, Virginia",62,Health care and social assistance,All establishments,All establishments,2019,"1,049","738,162","171,938","14,567",
+1690,"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,179,"297,391","34,265","3,981",
+1697,"Loudoun County, Virginia",72,Accommodation and food services,All establishments,All establishments,2019,780,"409,627","95,782","17,444",
+1704,"Loudoun County, Virginia",81,Other services (except public administration),All establishments,All establishments,2019,890,"336,865","82,795","7,626",
+1711,"Loudoun County, Virginia",99,Industries not classified,All establishments,All establishments,2019,17,545,114,18,
+1713,"Loudoun County, Virginia",0,Total for all sectors,All establishments,All establishments,2020,"11,348","10,346,522","2,666,820","169,437",
+1725,"Loudoun County, Virginia",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,25,"2,173",461,56,
+1728,"Loudoun County, Virginia",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,7,"23,739","5,916",233,
+1730,"Loudoun County, Virginia",22,Utilities,All establishments,All establishments,2020,7,"11,732","3,070",127,
+1732,"Loudoun County, Virginia",23,Construction,All establishments,All establishments,2020,890,"968,326","239,505","14,153",
+1740,"Loudoun County, Virginia",31-33,Manufacturing,All establishments,All establishments,2020,194,"507,966","122,985","5,952",
+1747,"Loudoun County, Virginia",42,Wholesale trade,All establishments,All establishments,2020,302,"272,645","77,425","3,994",
+1754,"Loudoun County, Virginia",44-45,Retail trade,All establishments,All establishments,2020,"1,032","608,112","149,205","19,936",
+1762,"Loudoun County, Virginia",48-49,Transportation and warehousing,All establishments,All establishments,2020,348,"600,533","187,384","14,920",
+1771,"Loudoun County, Virginia",51,Information,All establishments,All establishments,2020,334,"1,197,133","401,367","9,492",
+1779,"Loudoun County, Virginia",52,Finance and insurance,All establishments,All establishments,2020,405,"376,329","83,074","3,458",
+1786,"Loudoun County, Virginia",53,Real estate and rental and leasing,All establishments,All establishments,2020,522,"103,549","24,876","1,756",
+1792,"Loudoun County, Virginia",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"3,370","2,931,362","703,251","29,783",
+1801,"Loudoun County, Virginia",55,Management of companies and enterprises,All establishments,All establishments,2020,55,"278,367","73,144","3,308",
+1807,"Loudoun County, Virginia",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,615,"625,835","150,465","14,168",
+1815,"Loudoun County, Virginia",61,Educational services,All establishments,All establishments,2020,253,"82,692","22,268","3,017",
+1821,"Loudoun County, Virginia",62,Health care and social assistance,All establishments,All establishments,2020,"1,064","767,491","191,082","15,130",
+1828,"Loudoun County, Virginia",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,184,"335,080","42,492","4,524",
+1835,"Loudoun County, Virginia",72,Accommodation and food services,All establishments,All establishments,2020,798,"316,252","100,811","17,826",
+1842,"Loudoun County, Virginia",81,Other services (except public administration),All establishments,All establishments,2020,920,"335,900","87,853","7,578",
+1849,"Loudoun County, Virginia",99,Industries not classified,All establishments,All establishments,2020,23,"1,306",186,26,
+1851,"Loudoun County, Virginia",0,,All establishments,All establishments,2021,"11,720","11,376,219","2,689,652","164,564",Total for all sectors
+1862,"Loudoun County, Virginia",11,,All establishments,All establishments,2021,27,"2,218",518,61,"Agriculture, forestry, fishing and hunting"
+1865,"Loudoun County, Virginia",21,,All establishments,All establishments,2021,7,"23,897","5,347",199,"Mining, quarrying, and oil and gas extraction"
+1867,"Loudoun County, Virginia",22,,All establishments,All establishments,2021,8,"11,602","3,292",127,Utilities
+1869,"Loudoun County, Virginia",23,,All establishments,All establishments,2021,911,"1,076,546","247,947","14,266",Construction
+1877,"Loudoun County, Virginia",31-33,,All establishments,All establishments,2021,203,"498,233","118,889","6,223",Manufacturing
+1884,"Loudoun County, Virginia",42,,All establishments,All establishments,2021,298,"267,624","67,381","3,308",Wholesale trade
+1891,"Loudoun County, Virginia",44-45,,All establishments,All establishments,2021,"1,021","685,927","148,100","18,656",Retail trade
+1899,"Loudoun County, Virginia",48-49,,All establishments,All establishments,2021,372,"644,773","145,958","13,302",Transportation and warehousing
+1908,"Loudoun County, Virginia",51,,All establishments,All establishments,2021,326,"1,256,890","410,171","9,296",Information
+1916,"Loudoun County, Virginia",52,,All establishments,All establishments,2021,406,"394,186","89,074","3,552",Finance and insurance
+1923,"Loudoun County, Virginia",53,,All establishments,All establishments,2021,554,"121,741","26,902","1,621",Real estate and rental and leasing
+1928,"Loudoun County, Virginia",54,,All establishments,All establishments,2021,"3,584","3,360,660","777,291","35,121","Professional, scientific, and technical services"
+1937,"Loudoun County, Virginia",55,,All establishments,All establishments,2021,50,"370,025","93,240","4,351",Management of companies and enterprises
+1944,"Loudoun County, Virginia",56,,All establishments,All establishments,2021,607,"673,219","129,451","11,819",Administrative and support and waste management and remediation services
+1952,"Loudoun County, Virginia",61,,All establishments,All establishments,2021,262,"90,364","20,293","2,750",Educational services
+1958,"Loudoun County, Virginia",62,,All establishments,All establishments,2021,"1,126","853,083","196,661","15,456",Health care and social assistance
+1966,"Loudoun County, Virginia",71,,All establishments,All establishments,2021,188,"298,276","49,439","2,945","Arts, entertainment, and recreation"
+1973,"Loudoun County, Virginia",72,,All establishments,All establishments,2021,802,"381,090","79,138","14,685",Accommodation and food services
+1980,"Loudoun County, Virginia",81,,All establishments,All establishments,2021,949,"365,226","80,500","6,802",Other services (except public administration)
+1987,"Loudoun County, Virginia",99,,All establishments,All establishments,2021,19,639,60,24,Industries not classified
+1989,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+1990,"Montgomery County, Maryland",0,Total for all sectors,All establishments,All establishments,2019,"27,376","30,287,280","7,884,727","444,313",
+2000,"Montgomery County, Maryland",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,24,"3,453",852,74,
+2002,"Montgomery County, Maryland",22,Utilities,All establishments,All establishments,2019,20,"57,093","18,798",498,
+2007,"Montgomery County, Maryland",23,Construction,All establishments,All establishments,2019,"2,299","1,872,095","437,407","27,112",
+2015,"Montgomery County, Maryland",31-33,Manufacturing,All establishments,All establishments,2019,343,"547,368","139,031","6,043",
+2022,"Montgomery County, Maryland",42,Wholesale trade,All establishments,All establishments,2019,740,"1,157,277","308,093","10,546",
+2031,"Montgomery County, Maryland",44-45,Retail trade,All establishments,All establishments,2019,"2,506","1,563,168","378,955","45,739",
+2039,"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,All establishments,2019,312,"133,998","29,391","2,998",
+2046,"Montgomery County, Maryland",51,Information,All establishments,All establishments,2019,623,"1,660,109","476,720","15,597",
+2055,"Montgomery County, Maryland",52,Finance and insurance,All establishments,All establishments,2019,"1,529","2,656,745","892,826","20,269",
+2063,"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,All establishments,2019,"1,516","887,156","247,233","10,224",
+2070,"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"5,790","7,721,954","1,972,690","81,652",
+2080,"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,All establishments,2019,534,"2,113,404","556,150","14,222",
+2089,"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"1,817","2,144,259","525,424","48,225",
+2099,"Montgomery County, Maryland",61,Educational services,All establishments,All establishments,2019,610,"611,402","144,658","12,003",
+2107,"Montgomery County, Maryland",62,Health care and social assistance,All establishments,All establishments,2019,"3,784","4,415,341","1,078,985","77,582",
+2117,"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,414,"237,369","50,666","8,592",
+2125,"Montgomery County, Maryland",72,Accommodation and food services,All establishments,All establishments,2019,"1,962","861,580","202,829","35,794",
+2132,"Montgomery County, Maryland",81,Other services (except public administration),All establishments,All establishments,2019,"2,497","1,640,019","423,275","27,071",
+2141,"Montgomery County, Maryland",99,Industries not classified,All establishments,All establishments,2019,54,"1,721",348,47,
+2143,"Montgomery County, Maryland",0,Total for all sectors,All establishments,All establishments,2020,"27,498","31,225,789","8,378,416","451,660",
+2156,"Montgomery County, Maryland",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,19,"2,370",636,52,
+2158,"Montgomery County, Maryland",22,Utilities,All establishments,All establishments,2020,21,"51,805","14,865",445,
+2161,"Montgomery County, Maryland",23,Construction,All establishments,All establishments,2020,"2,293","1,901,101","461,681","27,058",
+2169,"Montgomery County, Maryland",31-33,Manufacturing,All establishments,All establishments,2020,348,"534,413","139,936","5,950",
+2176,"Montgomery County, Maryland",42,Wholesale trade,All establishments,All establishments,2020,715,"1,159,299","315,866","10,525",
+2184,"Montgomery County, Maryland",44-45,Retail trade,All establishments,All establishments,2020,"2,462","1,539,083","388,500","46,937",
+2192,"Montgomery County, Maryland",48-49,Transportation and warehousing,All establishments,All establishments,2020,332,"159,082","36,432","4,261",
+2199,"Montgomery County, Maryland",51,Information,All establishments,All establishments,2020,619,"1,798,241","502,800","15,834",
+2208,"Montgomery County, Maryland",52,Finance and insurance,All establishments,All establishments,2020,"1,537","2,945,333","972,258","21,425",
+2216,"Montgomery County, Maryland",53,Real estate and rental and leasing,All establishments,All establishments,2020,"1,591","1,175,472","360,809","12,472",
+2224,"Montgomery County, Maryland",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"5,878","8,332,145","2,045,552","81,147",
+2235,"Montgomery County, Maryland",55,Management of companies and enterprises,All establishments,All establishments,2020,536,"1,928,912","620,208","15,461",
+2244,"Montgomery County, Maryland",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"1,825","2,068,136","526,670","47,524",
+2253,"Montgomery County, Maryland",61,Educational services,All establishments,All establishments,2020,617,"606,517","156,798","12,640",
+2261,"Montgomery County, Maryland",62,Health care and social assistance,All establishments,All establishments,2020,"3,844","4,508,191","1,124,658","78,450",
+2273,"Montgomery County, Maryland",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,396,"193,011","56,306","9,505",
+2281,"Montgomery County, Maryland",72,Accommodation and food services,All establishments,All establishments,2020,"1,905","658,597","205,834","35,037",
+2288,"Montgomery County, Maryland",81,Other services (except public administration),All establishments,All establishments,2020,"2,500","1,662,218","448,312","26,895",
+2297,"Montgomery County, Maryland",99,Industries not classified,All establishments,All establishments,2020,60,"1,863",295,42,
+2299,"Montgomery County, Maryland",0,,All establishments,All establishments,2021,"27,586","33,266,789","8,362,695","413,726",Total for all sectors
+2312,"Montgomery County, Maryland",11,,All establishments,All establishments,2021,20,"2,534",650,54,"Agriculture, forestry, fishing and hunting"
+2314,"Montgomery County, Maryland",22,,All establishments,All establishments,2021,22,"47,616","14,655",419,Utilities
+2317,"Montgomery County, Maryland",23,,All establishments,All establishments,2021,"2,323","1,986,087","443,271","26,212",Construction
+2326,"Montgomery County, Maryland",31-33,,All establishments,All establishments,2021,346,"582,921","142,263","5,806",Manufacturing
+2333,"Montgomery County, Maryland",42,,All establishments,All establishments,2021,688,"1,265,073","345,544","9,974",Wholesale trade
+2341,"Montgomery County, Maryland",44-45,,All establishments,All establishments,2021,"2,410","1,705,915","381,878","43,187",Retail trade
+2349,"Montgomery County, Maryland",48-49,,All establishments,All establishments,2021,377,"183,599","38,716","4,507",Transportation and warehousing
+2357,"Montgomery County, Maryland",51,,All establishments,All establishments,2021,640,"1,646,524","463,539","13,682",Information
+2366,"Montgomery County, Maryland",52,,All establishments,All establishments,2021,"1,505","3,320,117","1,143,880","21,669",Finance and insurance
+2374,"Montgomery County, Maryland",53,,All establishments,All establishments,2021,"1,638","1,139,622","303,276","11,096",Real estate and rental and leasing
+2381,"Montgomery County, Maryland",54,,All establishments,All establishments,2021,"5,865","9,585,244","2,325,469","81,930","Professional, scientific, and technical services"
+2392,"Montgomery County, Maryland",55,,All establishments,All establishments,2021,602,"1,912,689","481,261","13,066",Management of companies and enterprises
+2401,"Montgomery County, Maryland",56,,All establishments,All establishments,2021,"1,826","2,134,951","502,850","41,225",Administrative and support and waste management and remediation services
+2411,"Montgomery County, Maryland",61,,All establishments,All establishments,2021,594,"659,781","148,465","10,607",Educational services
+2419,"Montgomery County, Maryland",62,,All establishments,All establishments,2021,"3,887","4,387,014","1,017,642","72,707",Health care and social assistance
+2430,"Montgomery County, Maryland",71,,All establishments,All establishments,2021,407,"225,860","39,914","6,052","Arts, entertainment, and recreation"
+2437,"Montgomery County, Maryland",72,,All establishments,All establishments,2021,"1,882","789,814","157,429","27,694",Accommodation and food services
+2444,"Montgomery County, Maryland",81,,All establishments,All establishments,2021,"2,510","1,688,302","411,229","23,762",Other services (except public administration)
+2453,"Montgomery County, Maryland",99,,All establishments,All establishments,2021,43,"2,990",628,62,Industries not classified
+2456,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+2457,"Santa Clara County, California",0,Total for all sectors,All establishments,All establishments,2019,"49,035","148,407,685","37,265,751","1,102,219",
+2467,"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,26,"10,927","2,548",226,
+2470,"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,12,"15,299","3,590",134,
+2473,"Santa Clara County, California",22,Utilities,All establishments,All establishments,2019,25,"272,318","72,553","1,978",
+2476,"Santa Clara County, California",23,Construction,All establishments,All establishments,2019,"3,674","4,790,361","1,120,671","52,400",
+2486,"Santa Clara County, California",31-33,Manufacturing,All establishments,All establishments,2019,"2,136","10,347,631","2,810,902","85,171",
+2496,"Santa Clara County, California",42,Wholesale trade,All establishments,All establishments,2019,"2,400","15,197,729","3,813,560","77,096",
+2506,"Santa Clara County, California",44-45,Retail trade,All establishments,All establishments,2019,"4,457","3,506,650","903,053","81,928",
+2515,"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,All establishments,2019,680,"752,324","189,466","13,081",
+2524,"Santa Clara County, California",51,Information,All establishments,All establishments,2019,"1,933","39,477,385","10,826,325","140,919",
+2534,"Santa Clara County, California",52,Finance and insurance,All establishments,All establishments,2019,"2,390","4,737,616","1,669,784","26,371",
+2542,"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,All establishments,2019,"2,971","1,434,864","382,913","16,283",
+2550,"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"8,902","23,379,250","5,787,208","145,806",
+2560,"Santa Clara County, California",55,Management of companies and enterprises,All establishments,All establishments,2019,264,"21,591,016","4,116,274","78,683",
+2570,"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"2,238","3,211,466","785,138","63,318",
+2580,"Santa Clara County, California",61,Educational services,All establishments,All establishments,2019,"1,139","4,311,402","1,105,919","54,340",
+2588,"Santa Clara County, California",62,Health care and social assistance,All establishments,All establishments,2019,"5,926","10,415,455","2,520,244","118,072",
+2598,"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,699,"825,877","156,920","19,073",
+2606,"Santa Clara County, California",72,Accommodation and food services,All establishments,All establishments,2019,"5,217","2,744,659","653,363","95,778",
+2615,"Santa Clara County, California",81,Other services (except public administration),All establishments,All establishments,2019,"3,875","1,381,374","344,689","31,472",
+2623,"Santa Clara County, California",99,Industries not classified,All establishments,All establishments,2019,71,"4,082",631,90,
+2626,"Santa Clara County, California",0,Total for all sectors,All establishments,All establishments,2020,"49,013","165,113,675","40,496,644","1,129,499",
+2640,"Santa Clara County, California",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,24,"12,145","2,999",257,
+2644,"Santa Clara County, California",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,11,"14,384","3,911",140,
+2647,"Santa Clara County, California",22,Utilities,All establishments,All establishments,2020,27,"314,749","80,001","2,019",
+2651,"Santa Clara County, California",23,Construction,All establishments,All establishments,2020,"3,724","4,515,338","1,153,510","52,288",
+2661,"Santa Clara County, California",31-33,Manufacturing,All establishments,All establishments,2020,"2,069","10,771,607","3,008,903","86,632",
+2674,"Santa Clara County, California",42,Wholesale trade,All establishments,All establishments,2020,"2,306","15,723,690","3,888,476","78,661",
+2686,"Santa Clara County, California",44-45,Retail trade,All establishments,All establishments,2020,"4,358","3,536,751","899,679","81,366",
+2695,"Santa Clara County, California",48-49,Transportation and warehousing,All establishments,All establishments,2020,766,"787,804","210,444","14,741",
+2704,"Santa Clara County, California",51,Information,All establishments,All establishments,2020,"1,929","45,723,790","11,952,156","149,287",
+2717,"Santa Clara County, California",52,Finance and insurance,All establishments,All establishments,2020,"2,374","5,002,356","1,826,549","27,182",
+2725,"Santa Clara County, California",53,Real estate and rental and leasing,All establishments,All establishments,2020,"3,052","1,531,357","415,658","16,429",
+2733,"Santa Clara County, California",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"8,977","26,353,025","6,439,204","154,546",
+2744,"Santa Clara County, California",55,Management of companies and enterprises,All establishments,All establishments,2020,262,"28,123,341","4,645,433","86,091",
+2757,"Santa Clara County, California",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,272","3,705,481","891,154","59,564",
+2767,"Santa Clara County, California",61,Educational services,All establishments,All establishments,2020,"1,170","4,404,836","1,092,829","57,339",
+2775,"Santa Clara County, California",62,Health care and social assistance,All establishments,All establishments,2020,"6,075","10,579,558","2,768,975","118,836",
+2789,"Santa Clara County, California",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,719,"717,504","185,313","19,953",
+2798,"Santa Clara County, California",72,Accommodation and food services,All establishments,All establishments,2020,"5,008","1,987,268","662,823","92,647",
+2807,"Santa Clara County, California",81,Other services (except public administration),All establishments,All establishments,2020,"3,805","1,305,694","368,098","31,436",
+2815,"Santa Clara County, California",99,Industries not classified,All establishments,All establishments,2020,85,"2,997",529,85,
+2818,"Santa Clara County, California",0,,All establishments,All establishments,2021,"48,749","194,044,418","45,337,999","1,057,178",Total for all sectors
+2832,"Santa Clara County, California",11,,All establishments,All establishments,2021,28,"12,894","2,873",259,"Agriculture, forestry, fishing and hunting"
+2836,"Santa Clara County, California",21,,All establishments,All establishments,2021,10,"13,724","3,247",124,"Mining, quarrying, and oil and gas extraction"
+2838,"Santa Clara County, California",22,,All establishments,All establishments,2021,27,"355,580","86,744","2,322",Utilities
+2841,"Santa Clara County, California",23,,All establishments,All establishments,2021,"3,809","4,759,869","1,130,084","49,575",Construction
+2851,"Santa Clara County, California",31-33,,All establishments,All establishments,2021,"2,028","13,738,625","3,822,285","88,625",Manufacturing
+2864,"Santa Clara County, California",42,,All establishments,All establishments,2021,"2,240","15,718,154","3,853,449","69,869",Wholesale trade
+2876,"Santa Clara County, California",44-45,,All establishments,All establishments,2021,"4,315","3,801,684","843,532","76,672",Retail trade
+2885,"Santa Clara County, California",48-49,,All establishments,All establishments,2021,804,"815,470","187,420","14,389",Transportation and warehousing
+2893,"Santa Clara County, California",51,,All establishments,All establishments,2021,"1,959","54,328,221","13,279,429","143,850",Information
+2906,"Santa Clara County, California",52,,All establishments,All establishments,2021,"2,394","5,933,498","2,445,104","26,406",Finance and insurance
+2914,"Santa Clara County, California",53,,All establishments,All establishments,2021,"3,100","1,585,530","384,646","15,188",Real estate and rental and leasing
+2922,"Santa Clara County, California",54,,All establishments,All establishments,2021,"8,891","34,511,523","8,089,463","160,339","Professional, scientific, and technical services"
+2934,"Santa Clara County, California",55,,All establishments,All establishments,2021,256,"33,440,985","5,473,984","80,305",Management of companies and enterprises
+2944,"Santa Clara County, California",56,,All establishments,All establishments,2021,"2,249","4,501,337","962,191","57,479",Administrative and support and waste management and remediation services
+2954,"Santa Clara County, California",61,,All establishments,All establishments,2021,"1,154","4,610,805","1,124,517","53,186",Educational services
+2964,"Santa Clara County, California",62,,All establishments,All establishments,2021,"6,098","11,597,432","2,796,795","115,980",Health care and social assistance
+2977,"Santa Clara County, California",71,,All establishments,All establishments,2021,693,"742,295","101,256","9,271","Arts, entertainment, and recreation"
+2985,"Santa Clara County, California",72,,All establishments,All establishments,2021,"4,933","2,205,550","433,792","68,454",Accommodation and food services
+2993,"Santa Clara County, California",81,,All establishments,All establishments,2021,"3,674","1,364,427","316,435","24,782",Other services (except public administration)
+3000,"Santa Clara County, California",99,,All establishments,All establishments,2021,87,"6,815",753,103,Industries not classified
+3003,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of NAICS code (NAICS2017_LABEL),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),"Annual payroll ($1,000) (PAYANN)","First-quarter payroll ($1,000) (PAYQTR1)",Number of employees (EMP),Meaning of NAICS Code (NAICS2017_LABEL)
+3004,"Wake County, North Carolina",0,Total for all sectors,All establishments,All establishments,2019,"30,266","29,620,559","7,515,502","497,013",
+3014,"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2019,26,"7,397","1,541",176,
+3017,"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2019,10,"19,883","5,608",227,
+3019,"Wake County, North Carolina",22,Utilities,All establishments,All establishments,2019,79,"341,776","126,814","3,218",
+3027,"Wake County, North Carolina",23,Construction,All establishments,All establishments,2019,"2,940","1,858,296","439,646","30,631",
+3035,"Wake County, North Carolina",31-33,Manufacturing,All establishments,All establishments,2019,588,"895,546","220,702","14,514",
+3044,"Wake County, North Carolina",42,Wholesale trade,All establishments,All establishments,2019,"1,380","2,802,172","662,551","28,375",
+3053,"Wake County, North Carolina",44-45,Retail trade,All establishments,All establishments,2019,"3,462","1,789,661","440,286","61,530",
+3061,"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,All establishments,2019,541,"485,386","120,647","10,829",
+3069,"Wake County, North Carolina",51,Information,All establishments,All establishments,2019,686,"3,320,633","942,405","28,772",
+3078,"Wake County, North Carolina",52,Finance and insurance,All establishments,All establishments,2019,"1,800","2,757,219","850,010","27,661",
+3088,"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,All establishments,2019,"1,910","588,449","143,557","9,793",
+3095,"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,All establishments,2019,"5,016","5,972,315","1,411,096","60,348",
+3104,"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,All establishments,2019,291,"987,337","302,116","9,565",
+3111,"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2019,"1,956","1,727,433","404,282","40,295",
+3120,"Wake County, North Carolina",61,Educational services,All establishments,All establishments,2019,553,"419,553","102,304","11,438",
+3128,"Wake County, North Carolina",62,Health care and social assistance,All establishments,All establishments,2019,"3,191","3,492,369","816,226","66,300",
+3138,"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,All establishments,2019,507,"296,856","84,363","12,730",
+3146,"Wake County, North Carolina",72,Accommodation and food services,All establishments,All establishments,2019,"2,559","1,067,427","252,407","57,187",
+3154,"Wake County, North Carolina",81,Other services (except public administration),All establishments,All establishments,2019,"2,733","788,857","188,409","23,364",
+3162,"Wake County, North Carolina",99,Industries not classified,All establishments,All establishments,2019,38,"1,994",532,60,
+3164,"Wake County, North Carolina",0,Total for all sectors,All establishments,All establishments,2020,"30,855","30,084,000","7,892,464","507,958",
+3177,"Wake County, North Carolina",11,"Agriculture, forestry, fishing and hunting",All establishments,All establishments,2020,26,"8,404","1,736",192,
+3180,"Wake County, North Carolina",21,"Mining, quarrying, and oil and gas extraction",All establishments,All establishments,2020,12,"21,375","6,011",222,
+3183,"Wake County, North Carolina",22,Utilities,All establishments,All establishments,2020,80,"343,487","125,935","3,146",
+3191,"Wake County, North Carolina",23,Construction,All establishments,All establishments,2020,"3,006","1,971,714","489,966","32,586",
+3199,"Wake County, North Carolina",31-33,Manufacturing,All establishments,All establishments,2020,591,"1,010,762","253,647","15,348",
+3208,"Wake County, North Carolina",42,Wholesale trade,All establishments,All establishments,2020,"1,398","2,478,868","622,227","26,916",
+3216,"Wake County, North Carolina",44-45,Retail trade,All establishments,All establishments,2020,"3,447","1,848,153","450,340","61,113",
+3224,"Wake County, North Carolina",48-49,Transportation and warehousing,All establishments,All establishments,2020,581,"492,429","127,398","11,799",
+3232,"Wake County, North Carolina",51,Information,All establishments,All establishments,2020,728,"3,437,294","931,870","29,958",
+3242,"Wake County, North Carolina",52,Finance and insurance,All establishments,All establishments,2020,"1,823","3,003,027","943,327","29,147",
+3252,"Wake County, North Carolina",53,Real estate and rental and leasing,All establishments,All establishments,2020,"2,040","605,574","151,943","10,104",
+3259,"Wake County, North Carolina",54,"Professional, scientific, and technical services",All establishments,All establishments,2020,"5,132","6,094,306","1,546,734","63,404",
+3269,"Wake County, North Carolina",55,Management of companies and enterprises,All establishments,All establishments,2020,284,"983,811","299,858","10,507",
+3277,"Wake County, North Carolina",56,Administrative and support and waste management and remediation services,All establishments,All establishments,2020,"2,016","1,842,838","430,766","40,046",
+3286,"Wake County, North Carolina",61,Educational services,All establishments,All establishments,2020,556,"437,921","106,924","11,852",
+3294,"Wake County, North Carolina",62,Health care and social assistance,All establishments,All establishments,2020,"3,245","3,608,072","851,363","67,477",
+3304,"Wake County, North Carolina",71,"Arts, entertainment, and recreation",All establishments,All establishments,2020,510,"232,581","92,595","13,367",
+3312,"Wake County, North Carolina",72,Accommodation and food services,All establishments,All establishments,2020,"2,554","886,735","262,625","57,348",
+3320,"Wake County, North Carolina",81,Other services (except public administration),All establishments,All establishments,2020,"2,796","775,287","196,951","23,397",
+3328,"Wake County, North Carolina",99,Industries not classified,All establishments,All establishments,2020,30,"1,362",248,29,
+3330,"Wake County, North Carolina",0,,All establishments,All establishments,2021,"32,026","34,259,007","8,286,212","497,107",Total for all sectors
+3343,"Wake County, North Carolina",11,,All establishments,All establishments,2021,25,"7,924","1,624",180,"Agriculture, forestry, fishing and hunting"
+3345,"Wake County, North Carolina",21,,All establishments,All establishments,2021,13,"23,684","6,818",215,"Mining, quarrying, and oil and gas extraction"
+3349,"Wake County, North Carolina",22,,All establishments,All establishments,2021,82,"344,094","126,550","3,110",Utilities
+3357,"Wake County, North Carolina",23,,All establishments,All establishments,2021,"3,155","2,241,984","505,609","33,295",Construction
+3366,"Wake County, North Carolina",31-33,,All establishments,All establishments,2021,587,"1,100,258","251,441","14,918",Manufacturing
+3375,"Wake County, North Carolina",42,,All establishments,All establishments,2021,"1,419","2,776,485","685,052","26,648",Wholesale trade
+3383,"Wake County, North Carolina",44-45,,All establishments,All establishments,2021,"3,570","2,132,182","490,143","64,512",Retail trade
+3391,"Wake County, North Carolina",48-49,,All establishments,All establishments,2021,698,"524,757","119,162","11,841",Transportation and warehousing
+3399,"Wake County, North Carolina",51,,All establishments,All establishments,2021,733,"4,343,219","1,062,708","28,468",Information
+3409,"Wake County, North Carolina",52,,All establishments,All establishments,2021,"1,819","3,174,480","1,010,221","28,905",Finance and insurance
+3419,"Wake County, North Carolina",53,,All establishments,All establishments,2021,"2,190","657,489","149,439","9,538",Real estate and rental and leasing
+3426,"Wake County, North Carolina",54,,All establishments,All establishments,2021,"5,404","6,590,859","1,507,357","62,030","Professional, scientific, and technical services"
+3436,"Wake County, North Carolina",55,,All establishments,All establishments,2021,293,"1,089,570","314,852","10,879",Management of companies and enterprises
+3444,"Wake County, North Carolina",56,,All establishments,All establishments,2021,"2,090","2,068,938","463,714","40,249",Administrative and support and waste management and remediation services
+3454,"Wake County, North Carolina",61,,All establishments,All establishments,2021,571,"463,254","108,318","11,116",Educational services
+3463,"Wake County, North Carolina",62,,All establishments,All establishments,2021,"3,386","4,498,842","997,617","72,728",Health care and social assistance
+3473,"Wake County, North Carolina",71,,All establishments,All establishments,2021,537,"305,736","74,113","8,287","Arts, entertainment, and recreation"
+3480,"Wake County, North Carolina",72,,All establishments,All establishments,2021,"2,576","1,076,366","219,535","48,605",Accommodation and food services
+3488,"Wake County, North Carolina",81,,All establishments,All establishments,2021,"2,854","837,927","191,643","21,546",Other services (except public administration)
+3496,"Wake County, North Carolina",99,,All establishments,All establishments,2021,24,959,296,37,Industries not classified
+3498,,,,,,,,,,,
