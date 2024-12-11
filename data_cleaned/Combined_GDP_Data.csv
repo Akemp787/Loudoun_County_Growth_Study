@@ -1,4 +1,4 @@
-FIPS_Code,County_Name,Year,Chaintype_quantity_indexes_for_real_GDP,Currentdollar_GDP_thousands_of_current_dollars,Description,Real_GDP_thousands_of_chained_2017_dollars
+fips_code,county_name,year,chaintype_quantity_indexes_for_real_gdp,currentdollar_gdp_thousands_of_current_dollars,description,real_gdp_thousands_of_chained_2017_dollars
 6085,"Santa Clara, CA",2001,40.775,120423328,,114379551
 6085,"Santa Clara, CA",2002,39.162,114181201,,109854356
 6085,"Santa Clara, CA",2003,41.643,118620079,,116812794

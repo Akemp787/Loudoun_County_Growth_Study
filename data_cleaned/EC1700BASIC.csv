@@ -1,4 +1,4 @@
-GEOID,County_Name,NAICS_Code,Year,Number_of_Firms,Number_of_Establishments,Annual_Payroll,FirstQuarter_Payroll,Number_of_Employees
+geoid,county_name,naics_code,year,number_of_firms,number_of_establishments,annual_payroll,firstquarter_payroll,number_of_employees
 0500000US06085,"Santa Clara County, California",31-33,2017,2146.0,2197.0,8114134.0,2118127.0,92225.0
 0500000US06085,"Santa Clara County, California",42,2017,2042.0,2252.0,13052469.0,3214367.0,74332.0
 0500000US06085,"Santa Clara County, California",44-45,2017,3202.0,4682.0,3353570.0,807498.0,86436.0

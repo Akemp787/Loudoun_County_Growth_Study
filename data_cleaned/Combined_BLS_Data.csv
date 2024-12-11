@@ -1,4 +1,4 @@
-area_fips,own_code,Industry_Code,agglvl_code,year,qtr,annual_avg_estabs,annual_avg_emplvl,total_annual_wages,avg_annual_pay
+area_fips,own_code,industry_code,agglvl_code,year,qtr,annual_avg_estabs,annual_avg_emplvl,total_annual_wages,avg_annual_pay
 48113,0,10,70,2020,A,81171,1667356,125000000000.00,75038.00
 48113,1,10,71,2020,A,167,26129,2365181145.00,90520.00
 48113,1,101,72,2020,A,1,6,559565.00,91983.00
