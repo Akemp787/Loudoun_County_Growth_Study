@@ -62,6 +62,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 580,Dallas County Texas,72,All establishments,All establishments,2021,6318,3012230,625120,116913
 589,Dallas County Texas,81,All establishments,All establishments,2021,5440,2498964,616581,49351
 598,Dallas County Texas,99,All establishments,All establishments,2021,95,10585,2688,224
+602,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 603,Davidson County Tennessee,0,All establishments,All establishments,2019,20293,27419532,6797708,464535
 613,Davidson County Tennessee,11,All establishments,All establishments,2019,7,691,139,15
 615,Davidson County Tennessee,21,All establishments,All establishments,2019,8,10733,2586,154
@@ -125,6 +126,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 1067,Davidson County Tennessee,72,All establishments,All establishments,2021,2349,1325947,250005,44563
 1074,Davidson County Tennessee,81,All establishments,All establishments,2021,1962,765694,174563,17842
 1082,Davidson County Tennessee,99,All establishments,All establishments,2021,23,2728,491,34
+1084,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 1085,Fairfax County Virginia,0,All establishments,All establishments,2019,31619,55389346,14447518,656234
 1095,Fairfax County Virginia,11,All establishments,All establishments,2019,6,15793,3324,163
 1097,Fairfax County Virginia,21,All establishments,All establishments,2019,5,8696,2468,81
@@ -188,6 +190,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 1561,Fairfax County Virginia,72,All establishments,All establishments,2021,2440,1001865,206608,37850
 1568,Fairfax County Virginia,81,All establishments,All establishments,2021,2764,1124546,261225,20580
 1576,Fairfax County Virginia,99,All establishments,All establishments,2021,40,1833,432,49
+1578,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 1579,Loudoun County Virginia,0,All establishments,All establishments,2019,11028,10312852,2552811,168351
 1589,Loudoun County Virginia,11,All establishments,All establishments,2019,25,2036,501,69
 1592,Loudoun County Virginia,21,All establishments,All establishments,2019,6,25393,12416,593
@@ -251,6 +254,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 1973,Loudoun County Virginia,72,All establishments,All establishments,2021,802,381090,79138,14685
 1980,Loudoun County Virginia,81,All establishments,All establishments,2021,949,365226,80500,6802
 1987,Loudoun County Virginia,99,All establishments,All establishments,2021,19,639,60,24
+1989,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 1990,Montgomery County Maryland,0,All establishments,All establishments,2019,27376,30287280,7884727,444313
 2000,Montgomery County Maryland,11,All establishments,All establishments,2019,24,3453,852,74
 2002,Montgomery County Maryland,22,All establishments,All establishments,2019,20,57093,18798,498
@@ -311,6 +315,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 2437,Montgomery County Maryland,72,All establishments,All establishments,2021,1882,789814,157429,27694
 2444,Montgomery County Maryland,81,All establishments,All establishments,2021,2510,1688302,411229,23762
 2453,Montgomery County Maryland,99,All establishments,All establishments,2021,43,2990,628,62
+2456,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 2457,Santa Clara County California,0,All establishments,All establishments,2019,49035,148407685,37265751,1102219
 2467,Santa Clara County California,11,All establishments,All establishments,2019,26,10927,2548,226
 2470,Santa Clara County California,21,All establishments,All establishments,2019,12,15299,3590,134
@@ -374,6 +379,7 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 2985,Santa Clara County California,72,All establishments,All establishments,2021,4933,2205550,433792,68454
 2993,Santa Clara County California,81,All establishments,All establishments,2021,3674,1364427,316435,24782
 3000,Santa Clara County California,99,All establishments,All establishments,2021,87,6815,753,103
+3003,Geographic Area Name (NAME),2017 NAICS code (NAICS2017),Meaning of Legal form of organization code (LFO_LABEL),Meaning of Employment size of establishments code (EMPSZES_LABEL),Year (YEAR),Number of establishments (ESTAB),Annual payroll ($1000) (PAYANN),First-quarter payroll ($1000) (PAYQTR1),Number of employees (EMP)
 3004,Wake County North Carolina,0,All establishments,All establishments,2019,30266,29620559,7515502,497013
 3014,Wake County North Carolina,11,All establishments,All establishments,2019,26,7397,1541,176
 3017,Wake County North Carolina,21,All establishments,All establishments,2019,10,19883,5608,227
@@ -437,3 +443,4 @@ unnamed_0,geographic_area_name_name,2017_naics_code_naics2017,meaning_of_legal_f
 3480,Wake County North Carolina,72,All establishments,All establishments,2021,2576,1076366,219535,48605
 3488,Wake County North Carolina,81,All establishments,All establishments,2021,2854,837927,191643,21546
 3496,Wake County North Carolina,99,All establishments,All establishments,2021,24,959,296,37
+3498,,,,,,,,,
