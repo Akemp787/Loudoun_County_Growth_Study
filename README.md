@@ -2,7 +2,7 @@
 
 ## Introduction
 The Loudoun County Growth Study analyzes key economic, demographic, and housing characteristics in Loudoun County, Virginia. By examining trends in population, employment, income, GDP, housing costs, and business establishments, the project provides insights into the region's growth and its comparison with peer counties.
-
+AWS INTEGRATION - S3 Buckets 
 ---
 
 ## Data Sources
